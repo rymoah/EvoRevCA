@@ -1,0 +1,34 @@
+Running in batch mode: run 13/50
+Start time: Wed Apr 21 11:47:45 2021
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 0
+Deme: 0
+Evaluations: 500
+Stats: fitness
+	max: 262144
+	min: 0
+	avg: 57069.9
+	stdev: 107118
+
+Truth table:
+0000000000000000000000000000000000000000000000000000000000010000
+score: 0
+hwf: 63
+
+<Individual size="1">
+	<FitnessMin value="0"/>
+	<Tree size="96">AND2 AND AND2 AND OR OR v0 v4 AND2 v4 v3 AND OR v6 v4 AND v0 v1 NOT OR AND v0 v0 AND2 v3 v4 NOT OR AND NOT v3 OR v0 v0 AND2 OR v4 v5 AND2 v5 v2 AND AND2 AND NOT NOT v4 AND2 AND2 v4 v5 AND2 v2 v1 OR AND2 NOT v1 OR v1 v6 OR NOT v6 AND2 v1 v2 AND AND2 AND2 NOT v4 OR v6 v3 AND2 OR v6 v0 OR v4 v3 AND2 OR AND2 v0 v4 OR v3 v3 OR OR v2 v0 NOT v4 </Tree>
+</Individual>
+
+Termination: fitness value (0) reached
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="0">
+		<FitnessMin value="0"/>
+		<Tree size="96">AND2 AND AND2 AND OR OR v0 v4 AND2 v4 v3 AND OR v6 v4 AND v0 v1 NOT OR AND v0 v0 AND2 v3 v4 NOT OR AND NOT v3 OR v0 v0 AND2 OR v4 v5 AND2 v5 v2 AND AND2 AND NOT NOT v4 AND2 AND2 v4 v5 AND2 v2 v1 OR AND2 NOT v1 OR v1 v6 OR NOT v6 AND2 v1 v2 AND AND2 AND2 NOT v4 OR v6 v3 AND2 OR v6 v0 OR v4 v3 AND2 OR AND2 v0 v4 OR v3 v3 OR OR v2 v0 NOT v4 </Tree>
+	</Individual>
+</HallOfFame>
+

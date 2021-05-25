@@ -1,0 +1,31 @@
+<ECF>
+	<Algorithm>
+		<SteadyStateTournament>
+			<Entry key="tsize">3</Entry>
+		</SteadyStateTournament>
+		<NSGA2/>
+	</Algorithm>
+
+	<Genotype>
+		<BitString>
+			<Entry key="size">512</Entry>
+		</BitString>
+	</Genotype>
+
+	<Registry>
+		<Entry key="variant">1</Entry>
+		<Entry key="variables">9</Entry>
+		<Entry key="omega">3</Entry>
+		<Entry key="genotype">bitstring</Entry>
+
+		<Entry key="population.size">500</Entry>
+		<Entry key="term.eval">500000</Entry>
+		<Entry key="term.stagnation">200</Entry>
+		<Entry key="mutation.indprob">0.9</Entry>
+		<Entry key="log.level">3</Entry>
+		<Entry key="log.frequency">10</Entry>
+		<Entry key="log.filename">log.txt</Entry>
+		<Entry key="batch.repeats">50</Entry>
+		<Entry key="batch.statsfile">stats.txt</Entry>
+	</Registry>
+</ECF>

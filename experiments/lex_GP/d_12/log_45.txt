@@ -1,0 +1,404 @@
+Running in batch mode: run 45/50
+Start time: Wed Apr 21 16:36:12 2021
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 49
+Deme: 0
+Evaluations: 500
+Stats: fitness
+	max: 8.58993e+09
+	min: -4
+	avg: 9.62418e+08
+	stdev: 2.71157e+09
+
+Generation: 1
+Elapsed time: 71
+Deme: 0
+Evaluations: 1000
+Stats: fitness
+	max: 8.58993e+09
+	min: -4
+	avg: 1.89078e+08
+	stdev: 1.26125e+09
+
+Generation: 10
+Elapsed time: 135
+Deme: 0
+Evaluations: 5500
+Stats: fitness
+	max: 8.58993e+09
+	min: -26
+	avg: 1.20275e+08
+	stdev: 1.01024e+09
+
+Generation: 20
+Elapsed time: 188
+Deme: 0
+Evaluations: 10500
+Stats: fitness
+	max: 644096
+	min: -32
+	avg: 7656.3
+	stdev: 53935.8
+
+Generation: 30
+Elapsed time: 238
+Deme: 0
+Evaluations: 15500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 3.43664e+07
+	stdev: 5.4273e+08
+
+Generation: 40
+Elapsed time: 285
+Deme: 0
+Evaluations: 20500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 3.43693e+07
+	stdev: 5.4273e+08
+
+Generation: 50
+Elapsed time: 337
+Deme: 0
+Evaluations: 25500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 5.15505e+07
+	stdev: 6.64038e+08
+
+Generation: 60
+Elapsed time: 386
+Deme: 0
+Evaluations: 30500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 1.71945e+07
+	stdev: 3.84153e+08
+
+Generation: 70
+Elapsed time: 437
+Deme: 0
+Evaluations: 35500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 1.71945e+07
+	stdev: 3.84153e+08
+
+Generation: 80
+Elapsed time: 485
+Deme: 0
+Evaluations: 40500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 5.15466e+07
+	stdev: 6.64038e+08
+
+Generation: 90
+Elapsed time: 533
+Deme: 0
+Evaluations: 45500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 6.87253e+07
+	stdev: 7.65994e+08
+
+Generation: 100
+Elapsed time: 575
+Deme: 0
+Evaluations: 50500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 5.15498e+07
+	stdev: 6.64038e+08
+
+Generation: 110
+Elapsed time: 617
+Deme: 0
+Evaluations: 55500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 5.15449e+07
+	stdev: 6.64038e+08
+
+Generation: 120
+Elapsed time: 661
+Deme: 0
+Evaluations: 60500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 6.8729e+07
+	stdev: 7.65993e+08
+
+Generation: 130
+Elapsed time: 700
+Deme: 0
+Evaluations: 65500
+Stats: fitness
+	max: 8.58993e+09
+	min: -32
+	avg: 1.71894e+07
+	stdev: 3.84153e+08
+
+Generation: 140
+Elapsed time: 742
+Deme: 0
+Evaluations: 70500
+Stats: fitness
+	max: 993344
+	min: -40
+	avg: 12059
+	stdev: 80422.1
+
+Generation: 150
+Elapsed time: 783
+Deme: 0
+Evaluations: 75500
+Stats: fitness
+	max: 8.58993e+09
+	min: -40
+	avg: 8.59129e+07
+	stdev: 8.55542e+08
+
+Generation: 160
+Elapsed time: 825
+Deme: 0
+Evaluations: 80500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 3.43667e+07
+	stdev: 5.4273e+08
+
+Generation: 170
+Elapsed time: 864
+Deme: 0
+Evaluations: 85500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.59124e+07
+	stdev: 8.55542e+08
+
+Generation: 180
+Elapsed time: 903
+Deme: 0
+Evaluations: 90500
+Stats: fitness
+	max: 282624
+	min: -44
+	avg: 5033.56
+	stdev: 35895
+
+Generation: 190
+Elapsed time: 940
+Deme: 0
+Evaluations: 95500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 6.87273e+07
+	stdev: 7.65993e+08
+
+Generation: 200
+Elapsed time: 979
+Deme: 0
+Evaluations: 100500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 3.43698e+07
+	stdev: 5.4273e+08
+
+Generation: 210
+Elapsed time: 1019
+Deme: 0
+Evaluations: 105500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 5.155e+07
+	stdev: 6.64038e+08
+
+Generation: 220
+Elapsed time: 1058
+Deme: 0
+Evaluations: 110500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 5.15512e+07
+	stdev: 6.64038e+08
+
+Generation: 230
+Elapsed time: 1098
+Deme: 0
+Evaluations: 115500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 3.43683e+07
+	stdev: 5.4273e+08
+
+Generation: 240
+Elapsed time: 1137
+Deme: 0
+Evaluations: 120500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.5909e+07
+	stdev: 8.55543e+08
+
+Generation: 250
+Elapsed time: 1175
+Deme: 0
+Evaluations: 125500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.59058e+07
+	stdev: 8.55543e+08
+
+Generation: 260
+Elapsed time: 1213
+Deme: 0
+Evaluations: 130500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 1.0309e+08
+	stdev: 9.36253e+08
+
+Generation: 270
+Elapsed time: 1251
+Deme: 0
+Evaluations: 135500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.59041e+07
+	stdev: 8.55543e+08
+
+Generation: 280
+Elapsed time: 1289
+Deme: 0
+Evaluations: 140500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.59104e+07
+	stdev: 8.55543e+08
+
+Generation: 290
+Elapsed time: 1330
+Deme: 0
+Evaluations: 145500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.59052e+07
+	stdev: 8.55543e+08
+
+Generation: 300
+Elapsed time: 1368
+Deme: 0
+Evaluations: 150500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.5906e+07
+	stdev: 8.55543e+08
+
+Generation: 310
+Elapsed time: 1404
+Deme: 0
+Evaluations: 155500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 1.5463e+08
+	stdev: 1.14318e+09
+
+Generation: 320
+Elapsed time: 1441
+Deme: 0
+Evaluations: 160500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 3.43681e+07
+	stdev: 5.4273e+08
+
+Generation: 330
+Elapsed time: 1480
+Deme: 0
+Evaluations: 165500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 8.59081e+07
+	stdev: 8.55543e+08
+
+Generation: 340
+Elapsed time: 1519
+Deme: 0
+Evaluations: 170500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 6.87332e+07
+	stdev: 7.65993e+08
+
+Generation: 350
+Elapsed time: 1556
+Deme: 0
+Evaluations: 175500
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 1.03086e+08
+	stdev: 9.36253e+08
+
+Generation: 357
+Elapsed time: 1584
+Deme: 0
+Evaluations: 179000
+Stats: fitness
+	max: 8.58993e+09
+	min: -44
+	avg: 1.37447e+08
+	stdev: 1.0789e+09
+
+Truth table:
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000010000000000000000000000010000000100000000000000000000000100000001000000000000000000000001000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000001000000000000000000000001000000010000000000000000000000010000000100000000000000000000000100000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000100000000000000000000000100000001000000000000000000000001000000010000000000000000000000010000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000010000000000000000000000010000000100000000000000000000000100000001000000000000000000000001000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000010000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000001000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000000000000000000000000000001000
+score: -44
+hwf: 2004
+
+<Individual size="1">
+	<FitnessMin value="-44"/>
+	<Tree size="511">AND AND2 AND v2 v7 v1 AND2 AND OR NOT AND AND2 AND2 OR AND v6 AND2 v0 v0 NOT NOT v5 OR AND NOT v3 NOT v1 AND2 AND2 v0 v0 OR v6 v6 AND AND AND NOT v5 NOT v4 NOT AND2 v4 v6 v2 AND2 OR AND2 AND2 NOT v4 AND v6 v6 AND OR v0 v8 AND2 v3 v1 OR AND OR v7 v10 NOT v4 AND2 NOT v3 AND2 v0 v10 AND NOT AND OR v7 v1 OR v7 v6 NOT NOT NOT v1 AND2 AND2 v7 v4 AND2 v6 OR OR AND AND2 AND v2 v10 v3 AND AND v6 v6 NOT v3 v2 v0 AND2 AND2 AND OR NOT NOT NOT v10 AND2 OR AND v6 v6 NOT NOT v5 OR AND NOT v3 NOT v1 AND2 AND2 v0 v0 OR v6 v10 NOT NOT NOT NOT NOT v0 AND2 AND2 AND NOT v4 OR NOT AND v4 v8 NOT AND v4 v5 AND AND AND AND2 v9 v8 AND v6 v6 AND OR v7 v10 AND2 v2 v8 OR AND2 OR v4 v10 v7 AND2 AND2 v6 v2 AND v0 v9 OR AND2 AND AND2 v7 v4 v2 NOT v0 v8 AND AND AND2 AND v7 NOT v4 OR OR AND AND2 v9 v4 v4 AND v10 AND v8 v3 OR OR NOT v4 OR v9 v5 NOT NOT v4 AND NOT NOT AND v0 v6 AND2 OR AND v7 v5 NOT v4 AND v6 NOT v0 AND2 AND OR NOT OR AND v9 v10 v5 AND AND AND v9 v5 NOT v10 AND OR v8 v1 NOT v8 OR NOT NOT AND2 v5 v5 OR NOT NOT v4 NOT AND2 v5 v2 AND AND2 OR AND OR v8 v5 NOT v4 OR AND v1 v9 v0 v4 AND NOT NOT AND v0 v6 AND2 NOT NOT v4 AND v5 NOT v0 OR AND2 AND v4 AND AND2 AND2 OR AND2 NOT v8 AND2 v6 v1 OR AND2 v5 v2 AND v10 v5 AND OR v7 v4 AND2 AND2 v9 v3 OR v3 v4 NOT NOT AND2 NOT v4 AND v8 v9 AND NOT OR NOT OR v6 v3 v0 AND OR AND NOT v3 AND2 v0 v2 v10 v0 NOT NOT NOT AND2 AND2 AND2 AND v8 v0 NOT v4 AND2 AND v3 v6 NOT v10 v10 AND2 AND AND AND2 v7 v4 NOT OR AND2 AND2 NOT v7 NOT v1 v7 AND2 AND AND2 v3 v9 AND v0 v2 AND2 OR v7 v5 OR v5 v10 OR NOT AND AND2 v8 NOT NOT v1 AND2 AND AND v7 v4 AND v10 v9 NOT NOT v2 AND OR AND AND2 v1 OR v10 v7 AND2 OR v6 v1 NOT v7 NOT v3 NOT NOT AND v6 OR v0 v1 AND AND AND2 AND OR OR NOT v3 AND v0 v7 OR AND2 v8 v7 AND2 v6 v6 AND2 v9 v3 NOT AND AND NOT v6 v1 OR AND2 v9 v5 OR v10 v10 OR v10 v10 AND v4 AND NOT NOT AND2 NOT v4 AND v8 v9 NOT NOT NOT NOT v5 </Tree>
+</Individual>
+
+Termination: maximum number of generations without improvement (200) reached
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="156">
+		<FitnessMin value="-44"/>
+		<Tree size="511">AND AND2 AND v2 v7 v1 AND2 AND OR NOT AND AND2 AND2 OR AND v6 AND2 v0 v0 NOT NOT v5 OR AND NOT v3 NOT v1 AND2 AND2 v0 v0 OR v6 v6 AND AND AND NOT v5 NOT v4 NOT AND2 v4 v6 v2 AND2 OR AND2 AND2 NOT v4 AND v6 v6 AND OR v0 v8 AND2 v3 v1 OR AND OR v7 v10 NOT v4 AND2 NOT v3 AND2 v0 v10 AND NOT AND OR v7 v1 OR v7 v6 NOT NOT NOT v1 AND2 AND2 v7 v4 AND2 v6 OR OR AND AND2 AND v2 v10 v3 AND AND v6 v6 NOT v3 v2 v0 AND2 AND2 AND OR NOT NOT NOT v10 AND2 OR AND v6 v6 NOT NOT v5 OR AND NOT v3 NOT v1 AND2 AND2 v0 v0 OR v6 v10 NOT NOT NOT NOT NOT v0 AND2 AND2 AND NOT v4 OR NOT AND v4 v8 NOT AND v4 v5 AND AND AND AND2 v9 v8 AND v6 v6 AND OR v7 v10 AND2 v2 v8 OR AND2 OR v4 v10 v7 AND2 AND2 v6 v2 AND v0 v9 OR AND2 AND AND2 v7 v4 v2 NOT v0 v8 AND AND AND2 AND v7 NOT v4 OR OR AND AND2 v9 v4 v4 AND v10 AND v8 v3 OR OR NOT v4 OR v9 v5 NOT NOT v4 AND NOT NOT AND v0 v6 AND2 OR AND v7 v5 NOT v4 AND v6 NOT v0 AND2 AND OR NOT OR AND v9 v10 v5 AND AND AND v9 v5 NOT v10 AND OR v8 v1 NOT v8 OR NOT NOT AND2 v5 v5 OR NOT NOT v4 NOT AND2 v5 v2 AND AND2 OR AND OR v8 v5 NOT v4 OR AND v1 v9 v0 v4 AND NOT NOT AND v0 v6 AND2 NOT NOT v4 AND v5 NOT v0 OR AND2 AND v4 AND AND2 AND2 OR AND2 NOT v8 AND2 v6 v1 OR AND2 v5 v2 AND v10 v5 AND OR v7 v4 AND2 AND2 v9 v3 OR v3 v4 NOT NOT AND2 NOT v4 AND v8 v9 AND NOT OR NOT OR v6 v3 v0 AND OR AND NOT v3 AND2 v0 v2 v10 v0 NOT NOT NOT AND2 AND2 AND2 AND v8 v0 NOT v4 AND2 AND v3 v6 NOT v10 v10 AND2 AND AND AND2 v7 v4 NOT OR AND2 AND2 NOT v7 NOT v1 v7 AND2 AND AND2 v3 v9 AND v0 v2 AND2 OR v7 v5 OR v5 v10 OR NOT AND AND2 v8 NOT NOT v1 AND2 AND AND v7 v4 AND v10 v9 NOT NOT v2 AND OR AND AND2 v1 OR v10 v7 AND2 OR v6 v1 NOT v7 NOT v3 NOT NOT AND v6 OR v0 v1 AND AND AND2 AND OR OR NOT v3 AND v0 v7 OR AND2 v8 v7 AND2 v6 v6 AND2 v9 v3 NOT AND AND NOT v6 v1 OR AND2 v9 v5 OR v10 v10 OR v10 v10 AND v4 AND NOT NOT AND2 NOT v4 AND v8 v9 NOT NOT NOT NOT v5 </Tree>
+	</Individual>
+</HallOfFame>
+

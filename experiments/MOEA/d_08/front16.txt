@@ -1,0 +1,1764 @@
+<Individual size="1">
+	<MOFitness value1="0" value2="11"/>
+	<Tree size="77">AND2 OR AND AND v6 AND2 AND AND v0 v6 NOT v3 AND OR v2 v4 AND2 v3 v2 AND2 AND OR v1 v0 OR NOT v4 AND v4 v0 v3 AND AND NOT AND2 v6 v2 NOT OR AND2 v0 v6 AND v2 v1 NOT NOT AND2 v6 v3 AND NOT NOT AND2 v6 AND2 AND v0 v4 v4 OR AND2 v5 v4 OR AND2 AND2 v4 v2 NOT AND2 v6 v3 AND2 v3 NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="0" value2="11"/>
+	<Tree size="65">AND2 OR AND AND AND NOT AND2 v6 v2 AND2 OR v6 v4 OR v3 v3 NOT OR AND2 v4 v2 AND2 v4 v4 NOT NOT NOT AND2 v2 v6 AND v6 AND2 AND AND2 v0 AND2 v3 v0 NOT AND2 v5 v5 v3 AND NOT AND2 v3 v2 OR AND2 v5 v4 OR AND2 v4 v2 AND2 NOT v0 AND2 v6 OR v1 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="0" value2="11"/>
+	<Tree size="65">AND2 OR AND AND AND NOT AND2 v6 v2 AND2 OR v6 v4 OR v3 v3 NOT OR AND2 v4 v2 AND2 v4 v4 NOT NOT NOT AND2 v2 v6 AND v6 AND2 AND AND2 v0 AND2 v3 v0 NOT AND2 v5 v5 v3 AND NOT AND2 v3 v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 NOT v0 AND2 v6 OR v1 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3" value2="12"/>
+	<Tree size="71">AND AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND OR v0 v6 OR AND2 v5 v4 AND2 AND2 v4 v2 NOT v4 OR v6 OR AND2 OR AND NOT v5 AND2 v2 v2 OR AND2 v6 v3 v0 AND OR NOT v5 AND v3 v2 NOT AND2 v3 v5 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3" value2="12"/>
+	<Tree size="71">AND AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND OR v0 v6 OR AND2 v5 v4 AND2 AND2 v4 v2 NOT v4 OR v6 OR AND2 OR AND NOT v5 AND2 v2 v2 OR AND2 v6 v3 v0 AND OR NOT v5 AND v3 v2 NOT AND2 v3 v5 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6" value2="13"/>
+	<Tree size="75">AND2 OR AND AND v6 AND2 AND AND v0 v6 NOT v3 AND AND2 v2 v4 AND2 v3 v2 AND2 AND OR v1 v0 OR NOT v4 AND v4 v0 v3 AND AND NOT AND2 v6 v2 NOT AND v5 AND v1 v2 NOT NOT AND2 v6 v3 AND NOT NOT AND2 v6 AND2 AND v0 v4 v4 OR AND2 v5 v4 OR AND2 AND2 v4 v2 NOT AND2 v6 v3 AND2 v3 NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6" value2="13"/>
+	<Tree size="75">AND2 OR AND AND v6 AND2 AND AND v0 v6 NOT v3 AND AND2 v2 v4 AND2 v3 v2 AND2 AND OR v1 v0 OR NOT v4 AND v4 v0 v3 AND AND NOT AND2 v6 v2 NOT AND v5 AND v1 v2 NOT NOT AND2 v6 v3 AND NOT NOT AND2 v6 AND2 AND v0 v4 v4 OR AND2 v5 v4 OR AND2 AND2 v4 v2 NOT AND2 v6 v3 AND2 v3 NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="10" value2="14"/>
+	<Tree size="73">AND AND2 OR AND AND OR v3 OR v3 v3 AND2 OR v3 v4 OR v3 v3 AND NOT AND2 v6 v1 AND v0 v3 AND AND NOT AND2 v5 v6 OR OR v1 v0 AND v2 v2 NOT NOT AND2 v6 v3 AND NOT AND v6 AND AND v4 v0 v2 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v5 OR v6 OR v2 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="10" value2="14"/>
+	<Tree size="73">AND AND2 OR AND AND OR v3 OR v3 v3 AND2 OR v3 v4 OR v3 v3 AND NOT AND2 v6 v1 AND v0 v3 AND AND NOT AND2 v5 v6 OR OR v1 v0 AND v2 v2 NOT NOT AND2 v6 v3 AND NOT AND v6 AND AND v4 v0 v2 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v5 OR v6 OR v2 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="16" value2="15"/>
+	<Tree size="82">AND2 OR OR AND AND v0 OR AND v3 v4 v1 NOT NOT AND2 v3 v3 AND NOT NOT AND2 v6 v3 AND NOT AND2 v4 v4 OR OR v1 v0 AND v2 v2 AND AND2 NOT v4 AND2 AND2 AND2 v0 v6 NOT v0 AND AND2 v1 v4 OR v5 v4 v4 AND NOT AND2 NOT v6 v6 OR AND2 v5 v4 OR AND2 AND2 v3 v6 AND2 v2 v2 AND2 AND2 AND2 v4 v2 AND2 v4 v4 AND v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="16" value2="15"/>
+	<Tree size="82">AND2 OR OR AND AND v0 OR AND v3 v4 v1 NOT NOT AND2 v3 v3 AND NOT NOT AND2 v6 v3 AND NOT AND2 v4 v4 OR OR v1 v0 AND v2 v2 AND AND2 NOT v4 AND2 AND2 AND2 v0 v6 NOT v0 AND AND2 v1 v4 OR v5 v4 v4 AND NOT AND2 NOT v6 v6 OR AND2 v5 v4 OR AND2 AND2 v3 v6 AND2 v2 v2 AND2 AND2 AND2 v4 v2 AND2 v4 v4 AND v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="24" value2="16"/>
+	<Tree size="71">AND2 OR AND OR OR NOT v5 v4 v3 AND2 v6 v3 AND AND NOT v4 AND2 OR AND2 v4 v2 v4 AND2 NOT v0 AND2 v6 v3 AND2 AND NOT v3 AND v0 v6 v4 AND OR OR v4 v5 OR NOT v1 NOT v0 OR AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="24" value2="16"/>
+	<Tree size="71">AND2 OR AND OR OR NOT v5 v4 v3 AND2 v6 v3 AND AND OR NOT v6 OR AND v0 v4 v3 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND OR OR v4 OR v2 v6 OR v4 v2 OR AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="24" value2="16"/>
+	<Tree size="71">AND2 OR AND OR OR NOT v5 v4 v3 AND2 v6 v3 AND AND NOT v4 AND2 OR AND2 v4 v2 v4 AND2 NOT v0 AND2 v6 v3 AND2 AND NOT v3 AND v0 v6 v4 AND OR OR v4 v5 OR NOT v1 NOT v0 OR AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="33" value2="17"/>
+	<Tree size="52">AND AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND2 AND v2 AND v0 v6 v3 AND NOT v1 OR NOT v2 NOT v1 AND OR OR NOT v1 OR AND v3 v1 v6 AND2 OR NOT v4 AND v5 v1 v6 OR NOT v6 AND2 v4 v2 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="33" value2="17"/>
+	<Tree size="46">AND AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND2 AND v2 AND v0 v6 v3 AND NOT v1 OR NOT v2 NOT v1 AND OR OR NOT v1 OR AND v3 v1 v6 NOT v0 OR NOT v6 AND2 v4 v2 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="42" value2="18"/>
+	<Tree size="65">AND2 OR AND OR OR NOT v5 v4 AND v4 v0 AND2 v6 v3 AND AND NOT v4 OR AND2 v2 v0 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND OR OR v4 v5 AND2 v2 v5 OR AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="42" value2="18"/>
+	<Tree size="65">AND2 OR AND OR OR NOT v5 v4 AND v4 v0 AND2 v6 v3 AND AND NOT v4 OR AND2 v2 v0 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND OR OR v4 v5 AND2 v2 v5 OR AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="51" value2="19"/>
+	<Tree size="65">AND2 OR AND OR OR NOT v5 v4 v3 AND2 v6 v3 AND AND NOT v4 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND OR OR v4 v5 OR NOT v1 NOT v0 OR AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="51" value2="19"/>
+	<Tree size="65">AND2 OR AND OR OR NOT v5 v4 v3 AND2 v6 v3 AND AND NOT v4 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND OR OR v4 v5 OR NOT v1 NOT v0 OR AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="60" value2="20"/>
+	<Tree size="85">AND2 AND2 OR AND OR v6 v2 NOT NOT AND2 v3 v3 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v6 AND v4 AND v0 v2 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 AND2 v0 v6 AND2 AND2 AND2 v4 v2 AND2 v0 v6 v4 AND OR OR AND2 AND2 v4 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 OR NOT v4 AND2 v1 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="60" value2="20"/>
+	<Tree size="85">AND2 AND2 OR AND OR v6 v2 NOT NOT AND2 v3 v3 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v6 AND v4 AND v0 v2 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 AND2 v0 v6 AND2 AND2 AND2 v4 v2 AND2 v0 v6 v4 AND OR OR AND2 AND2 v4 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 OR NOT v4 AND2 v1 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="60" value2="20"/>
+	<Tree size="85">AND2 AND2 OR AND OR v6 v2 NOT NOT AND2 v3 v3 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v6 AND v4 AND v0 v2 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 AND2 v0 v6 AND2 AND2 AND2 v4 v2 AND2 v0 v6 v4 AND OR OR AND2 AND2 v4 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 OR NOT v4 AND2 v1 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="70" value2="21"/>
+	<Tree size="87">AND2 AND2 OR AND OR v6 v2 NOT NOT AND2 v3 v3 AND v6 NOT AND AND v2 v4 AND v6 v3 AND NOT AND AND v1 AND v5 v6 AND AND v5 v5 AND v0 v2 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 AND2 v0 v6 AND2 AND2 AND2 v4 v2 AND2 v0 v6 v4 AND OR OR AND2 AND2 v4 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 OR NOT v4 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="70" value2="21"/>
+	<Tree size="87">AND2 AND2 OR AND OR v6 v2 NOT NOT AND2 v3 v3 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v6 AND AND v5 v5 AND v0 v2 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 AND2 v0 v6 AND2 AND2 AND2 v4 v2 AND2 v0 v6 v4 AND OR OR AND2 AND2 v4 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 OR NOT v4 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="83" value2="22"/>
+	<Tree size="110">AND2 AND2 OR AND AND AND2 AND v6 v6 OR v3 v3 OR AND2 v6 v3 OR v3 v3 v4 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v6 AND AND v5 v0 AND v0 v2 OR OR AND2 AND2 v4 v2 NOT v4 AND2 AND2 v3 v4 v4 AND2 AND2 AND2 v4 v2 AND2 v5 v6 v4 AND OR AND OR AND2 v2 v6 NOT AND v5 v2 OR v6 v6 AND NOT AND AND2 v1 v6 OR v2 v4 NOT v1 OR OR AND2 AND2 v4 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="83" value2="22"/>
+	<Tree size="110">AND2 AND2 OR AND AND AND2 AND v6 v6 OR v3 v3 OR AND2 v6 v3 OR v3 v3 v4 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v6 AND AND v5 v0 AND v0 v2 OR OR AND2 AND2 v4 v2 NOT v4 AND2 AND2 v3 v4 v4 AND2 AND2 AND2 v4 v2 AND2 v5 v6 v4 AND OR AND OR AND2 v2 v6 NOT AND v5 v2 OR v6 v6 AND NOT AND AND2 v1 v6 OR v2 v4 NOT v1 OR OR AND2 AND2 v4 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="96" value2="23"/>
+	<Tree size="102">AND2 AND2 OR AND AND v4 AND2 OR v0 v6 OR v3 v3 NOT NOT AND2 v3 v3 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v3 AND v6 AND v0 v2 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 v4 AND2 AND2 AND2 v4 v2 AND2 v5 v6 v4 AND OR AND AND AND2 v2 v6 NOT AND v5 v2 OR v6 v6 AND NOT AND AND2 v6 v5 OR v2 v4 NOT v1 OR OR AND v3 v2 AND2 AND2 v5 v4 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="96" value2="23"/>
+	<Tree size="104">AND2 AND2 OR AND AND v4 AND2 OR v0 v6 OR v3 v3 NOT NOT AND2 v3 v3 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 AND v5 v3 AND AND v5 v5 AND v0 v2 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 v4 AND2 AND2 AND2 v4 v2 AND2 v5 v6 v4 AND OR AND AND AND2 v2 v6 NOT AND v5 v2 OR v6 v6 AND NOT AND AND2 v6 v5 OR v2 v4 NOT v1 OR OR AND v3 v2 AND2 AND2 v5 v4 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="110" value2="24"/>
+	<Tree size="92">AND2 AND2 OR AND OR v6 v2 NOT AND v2 v2 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 OR v5 v6 AND AND v2 v6 AND v2 v0 OR OR AND2 AND2 v4 v2 AND2 v5 v5 v3 AND2 v4 v4 AND OR AND OR AND2 v2 v6 NOT OR v0 v6 AND2 v5 v6 AND NOT AND AND2 v6 v5 AND2 v4 v4 NOT v1 OR OR AND2 AND2 v6 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="110" value2="24"/>
+	<Tree size="92">AND2 AND2 OR AND OR v6 v2 NOT AND v2 v2 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 OR v5 v6 AND AND v2 v6 AND v2 v0 OR OR AND2 AND2 v4 v2 AND2 v5 v5 v3 AND2 v4 v4 AND OR AND OR AND2 v2 v6 NOT OR v0 v6 OR v6 v6 AND NOT AND AND2 v6 v5 AND2 v4 v4 NOT v1 OR OR AND2 AND2 v6 v2 AND2 NOT v4 v1 AND2 AND2 v5 v4 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="128" value2="25"/>
+	<Tree size="94">AND2 AND2 OR AND AND OR AND v3 v3 v1 AND2 OR v1 v6 OR v3 v5 NOT NOT AND2 v3 v2 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 OR v5 v6 AND AND v2 v6 AND v2 v0 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 AND2 v0 v6 AND2 v4 v4 AND OR AND OR v4 NOT AND2 v6 v3 OR v3 v6 v3 OR OR AND2 AND2 v4 v2 v2 AND2 AND2 v5 v1 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="128" value2="25"/>
+	<Tree size="94">AND2 AND2 OR AND AND OR AND v3 v3 v1 AND2 OR v1 v6 OR v3 v5 NOT NOT AND2 v3 v2 AND v6 NOT AND AND v4 v6 AND v6 v3 AND NOT AND AND v1 OR v5 v6 AND AND v2 v6 AND v2 v0 OR OR AND2 AND2 v4 v2 AND2 v5 v5 AND2 AND2 v3 v4 AND2 v0 v6 AND2 v4 v4 AND OR AND OR v4 NOT AND2 v6 v3 OR v3 v6 v3 OR OR AND2 AND2 v4 v2 v2 AND2 AND2 v5 v1 v0 AND2 v5 v5 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="138" value2="26"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND2 v5 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v3 v2 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="138" value2="26"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND2 v5 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v3 v2 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="155" value2="27"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND2 v6 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="155" value2="27"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND2 v6 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="155" value2="27"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND2 v6 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="155" value2="27"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND2 v6 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="170" value2="28"/>
+	<Tree size="57">NOT OR OR AND AND2 OR v2 AND v6 v6 v5 OR OR NOT v4 AND v2 v1 NOT v1 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="170" value2="28"/>
+	<Tree size="57">NOT OR OR AND AND2 OR v2 AND v6 v6 v5 OR OR NOT v4 AND v2 v1 NOT v1 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="185" value2="29"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="185" value2="29"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="185" value2="29"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="185" value2="29"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 NOT v1 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="202" value2="30"/>
+	<Tree size="48">NOT OR OR AND AND2 v2 v5 OR NOT v1 AND2 v6 v3 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="202" value2="30"/>
+	<Tree size="48">NOT OR OR AND AND2 v2 v5 OR NOT v1 AND2 v6 v3 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="202" value2="30"/>
+	<Tree size="48">NOT OR OR AND AND2 v2 v5 OR NOT v1 AND2 v6 v3 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="202" value2="30"/>
+	<Tree size="48">NOT OR OR AND AND2 v2 v5 OR NOT v1 AND2 v6 v3 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="219" value2="31"/>
+	<Tree size="57">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 v2 OR OR v1 AND v2 v2 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="219" value2="31"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 v2 OR OR AND v2 v2 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="219" value2="31"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 v2 OR OR AND v2 v2 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="219" value2="31"/>
+	<Tree size="59">NOT OR OR AND AND NOT AND v4 v3 AND NOT v5 v2 OR OR AND v2 v2 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="240" value2="32"/>
+	<Tree size="50">NOT OR OR AND AND2 v5 v5 OR OR v2 AND v2 v1 NOT v4 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="240" value2="32"/>
+	<Tree size="50">NOT OR OR AND AND2 v5 v5 OR OR v2 AND v2 v1 NOT v4 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="240" value2="32"/>
+	<Tree size="50">NOT OR OR AND AND2 v5 v5 OR OR v2 AND v2 v1 NOT v4 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="240" value2="32"/>
+	<Tree size="50">NOT OR OR AND AND2 v5 v5 OR OR v2 AND v2 v1 NOT v4 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="261" value2="33"/>
+	<Tree size="56">NOT OR OR AND OR v5 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v3 v0 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="261" value2="33"/>
+	<Tree size="56">NOT OR OR AND OR v5 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v3 v0 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="261" value2="33"/>
+	<Tree size="56">NOT OR OR AND OR v5 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v3 v0 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="261" value2="33"/>
+	<Tree size="56">NOT OR OR AND OR v5 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v3 v0 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="278" value2="34"/>
+	<Tree size="52">NOT OR OR AND OR v5 v6 AND2 v6 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND AND v0 v6 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="278" value2="34"/>
+	<Tree size="58">NOT OR OR AND OR v5 v6 AND v4 AND2 OR v6 v1 OR v3 v3 AND AND NOT AND2 v3 v2 OR AND v1 v1 AND2 v3 v0 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="278" value2="34"/>
+	<Tree size="58">NOT OR OR AND OR v5 v6 AND v4 AND2 OR v6 v1 OR v3 v3 AND AND NOT AND2 v3 v2 OR AND v1 v1 AND2 v3 v0 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="278" value2="34"/>
+	<Tree size="58">NOT OR OR AND OR v5 v6 AND v4 AND2 OR v6 v1 OR v3 v3 AND AND NOT AND2 v3 v2 OR AND v1 v1 AND2 v3 v0 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="307" value2="35"/>
+	<Tree size="62">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="307" value2="35"/>
+	<Tree size="62">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="307" value2="35"/>
+	<Tree size="62">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="307" value2="35"/>
+	<Tree size="62">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="326" value2="36"/>
+	<Tree size="52">NOT OR OR AND OR v5 v6 AND2 v6 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="326" value2="36"/>
+	<Tree size="52">NOT OR OR AND OR v5 v6 AND2 v6 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="326" value2="36"/>
+	<Tree size="52">NOT OR OR AND OR v5 v6 AND2 v6 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="326" value2="36"/>
+	<Tree size="52">NOT OR OR AND OR v5 v6 AND2 v6 v3 AND AND NOT AND2 v3 v2 OR AND2 v3 v0 AND v1 v1 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="358" value2="37"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v3 v3 OR v6 v2 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v1 v6 NOT AND2 OR OR OR v1 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="358" value2="37"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v3 v3 OR v6 v2 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v1 v6 NOT AND2 OR OR OR v1 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="358" value2="37"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v3 v3 OR v6 v2 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v1 v6 NOT AND2 OR OR OR v1 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="358" value2="37"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v3 v3 OR v6 v2 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v1 v6 NOT AND2 OR OR OR v1 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="380" value2="38"/>
+	<Tree size="61">NOT OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 v6 AND2 OR v6 v2 OR v3 v3 OR OR NOT v4 AND v2 v1 v4 AND AND NOT AND2 v3 v2 OR AND v1 v1 AND2 v5 v4 OR AND v2 v1 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="380" value2="38"/>
+	<Tree size="61">NOT OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 v6 AND2 OR v6 v2 OR v3 v3 OR OR NOT v4 AND v2 v1 v4 AND AND NOT AND2 v3 v2 OR AND v1 v1 AND2 v5 v4 OR AND v2 v2 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="380" value2="38"/>
+	<Tree size="61">NOT OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 v6 AND2 OR v6 v2 OR v3 v3 OR OR NOT v4 AND v2 v1 v4 AND AND NOT AND2 v3 v2 OR AND v1 v1 AND2 v5 v4 OR AND v2 v2 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="380" value2="38"/>
+	<Tree size="61">NOT OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 v6 AND2 OR v6 v2 OR v3 v3 OR OR NOT v4 AND v2 v1 v4 AND AND NOT AND2 v3 v2 OR AND v1 v1 AND2 v5 v4 OR AND v2 v1 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="410" value2="39"/>
+	<Tree size="60">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v1 v1 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="410" value2="39"/>
+	<Tree size="60">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v1 v1 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="410" value2="39"/>
+	<Tree size="60">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v1 v1 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="410" value2="39"/>
+	<Tree size="60">NOT OR OR AND OR OR OR v3 v5 v1 v6 AND v4 AND2 OR v6 v0 OR v3 v3 AND AND NOT AND2 v3 v2 OR v1 AND2 v1 v1 NOT AND v1 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="432" value2="40"/>
+	<Tree size="50">NOT OR OR AND v4 AND2 v6 v3 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 NOT AND v4 AND v2 v6 NOT AND2 OR OR OR v6 v3 v6 NOT AND2 v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="432" value2="40"/>
+	<Tree size="61">NOT OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="432" value2="40"/>
+	<Tree size="61">NOT OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="432" value2="40"/>
+	<Tree size="61">NOT OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="462" value2="41"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v3 v6 NOT AND2 OR OR OR v3 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="462" value2="41"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v6 v0 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v3 v6 NOT AND2 OR OR OR v3 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="462" value2="41"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v6 v0 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v3 v6 NOT AND2 OR OR OR v3 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="462" value2="41"/>
+	<Tree size="65">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v3 v6 NOT AND2 OR OR OR v3 v6 v5 NOT OR v6 v2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="496" value2="42"/>
+	<Tree size="56">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 v1 NOT AND2 OR OR OR v3 v6 v5 NOT NOT v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="496" value2="42"/>
+	<Tree size="56">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 v1 NOT AND2 OR OR OR v3 v6 v5 NOT NOT v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="496" value2="42"/>
+	<Tree size="56">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 v1 NOT AND2 OR OR OR v3 v6 v5 NOT NOT v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="496" value2="42"/>
+	<Tree size="56">NOT OR OR AND AND OR OR v6 v2 OR v3 v3 AND2 OR v0 v6 OR v3 v3 v4 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 v1 NOT AND2 OR OR OR v3 v6 v5 NOT NOT v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="540" value2="43"/>
+	<Tree size="56">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="540" value2="43"/>
+	<Tree size="56">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="540" value2="43"/>
+	<Tree size="56">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="540" value2="43"/>
+	<Tree size="56">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="580" value2="44"/>
+	<Tree size="48">NOT OR OR AND NOT NOT AND2 v6 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="580" value2="44"/>
+	<Tree size="48">NOT OR OR AND NOT NOT AND2 v6 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="580" value2="44"/>
+	<Tree size="48">NOT OR OR AND NOT NOT AND2 v6 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="580" value2="44"/>
+	<Tree size="48">NOT OR OR AND NOT NOT AND2 v6 v3 OR OR v6 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR NOT AND v1 v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="624" value2="45"/>
+	<Tree size="60">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR AND AND2 v4 v2 AND v2 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR v3 NOT AND v1 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="624" value2="45"/>
+	<Tree size="60">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR AND AND2 v4 v2 AND v2 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR v3 NOT AND v1 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="624" value2="45"/>
+	<Tree size="60">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR AND AND2 v4 v2 AND v2 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR v3 NOT AND v1 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="624" value2="45"/>
+	<Tree size="60">NOT OR OR AND AND OR v5 OR v0 v2 AND2 OR v0 v6 OR v3 v3 OR AND AND2 v4 v2 AND v2 v2 v6 AND NOT AND2 AND v6 v6 AND v4 v0 AND NOT AND2 v3 v2 v1 NOT AND2 OR v3 NOT AND v1 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="652" value2="46"/>
+	<Tree size="72">AND OR OR AND v2 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT OR v3 v3 OR AND2 NOT NOT AND2 v3 v3 OR OR NOT v2 AND2 v3 v5 AND v1 AND v1 NOT v3 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="652" value2="46"/>
+	<Tree size="72">AND OR OR AND v2 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT OR v3 v3 OR AND2 NOT NOT AND2 v3 v3 OR OR NOT v2 AND2 v3 v5 AND v1 AND v1 NOT v3 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="652" value2="46"/>
+	<Tree size="72">AND OR OR AND v2 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT OR v3 v3 OR AND2 NOT NOT AND2 v3 v3 OR OR NOT v2 AND2 v3 v5 AND v1 AND v1 NOT v3 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="652" value2="46"/>
+	<Tree size="72">AND OR OR AND v2 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT OR v3 v3 OR AND2 NOT NOT AND2 v3 v3 OR OR NOT v2 AND2 v3 v5 AND v1 AND v1 NOT v3 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="700" value2="47"/>
+	<Tree size="85">AND OR OR AND AND OR v5 OR v0 v2 AND2 AND v6 v0 OR v6 v3 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT v3 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT v6 AND2 v3 v5 AND v1 v1 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="700" value2="47"/>
+	<Tree size="84">AND OR OR AND AND OR v5 NOT v1 AND2 AND v6 v0 OR v6 v3 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT v3 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT v6 AND2 v3 v5 AND v1 v1 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="700" value2="47"/>
+	<Tree size="84">AND OR OR AND AND OR v5 NOT v1 AND2 AND v6 v0 OR v6 v3 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT v3 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT v6 AND2 v3 v5 AND v1 v1 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="700" value2="47"/>
+	<Tree size="85">AND OR OR AND AND OR v5 OR v0 v2 AND2 AND v6 v0 OR v6 v3 AND2 v6 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT v3 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT v6 AND2 v3 v5 AND v1 v1 OR OR v1 AND2 v2 v3 AND2 OR v4 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="752" value2="48"/>
+	<Tree size="81">AND OR OR AND AND OR v5 OR v0 v2 AND2 AND v6 v0 OR v6 v5 AND2 v6 v3 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR v4 NOT AND v5 v6 AND OR NOT v4 AND v6 v2 NOT OR v3 v3 OR AND2 NOT NOT AND2 v3 v3 OR v2 AND v1 AND v1 NOT v3 OR OR v1 AND2 v2 v3 AND2 OR v4 AND2 v3 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="752" value2="48"/>
+	<Tree size="83">AND OR OR AND AND OR v5 OR v0 v2 AND2 AND v6 v0 OR v6 v5 AND2 v6 v3 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT OR v3 v3 OR AND2 NOT NOT AND2 v3 v3 OR v2 AND v1 AND v1 NOT v3 OR OR v1 AND2 v2 v3 AND2 OR v4 AND2 v3 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="752" value2="48"/>
+	<Tree size="77">AND OR OR AND AND v2 AND2 NOT v6 NOT v5 NOT v5 AND AND NOT AND2 v3 v2 NOT v2 AND v6 v4 NOT AND2 OR AND OR v2 v5 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR AND2 v6 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v4 v0 OR v6 v1 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="752" value2="48"/>
+	<Tree size="83">AND OR OR AND AND OR v5 OR v0 v2 AND2 AND v6 v0 OR v6 v5 AND2 v6 v3 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 v2 v6 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT OR v3 v3 OR AND2 NOT NOT AND2 v3 v3 OR v2 AND v1 AND v1 NOT v3 OR OR v1 AND2 v2 v3 AND2 OR v4 AND2 v3 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="800" value2="49"/>
+	<Tree size="95">AND OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT v2 AND2 AND v3 NOT v4 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 OR v2 v0 v6 NOT AND v4 v2 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT AND2 v6 v3 AND2 v2 v6 AND v1 AND v1 v5 OR OR v1 AND2 v2 v3 AND2 AND OR v6 v6 v1 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="800" value2="49"/>
+	<Tree size="95">AND OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT v2 AND2 AND v3 NOT v4 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 OR v2 v0 v6 NOT AND v4 v2 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT AND2 v6 v3 AND2 v2 v6 AND v1 AND v1 v5 OR OR v1 AND2 v2 v3 AND2 AND OR v6 v6 v1 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="800" value2="49"/>
+	<Tree size="95">AND OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT v2 AND2 AND v3 NOT v4 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 OR v2 v0 v6 NOT AND v4 v2 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT AND2 v6 v3 AND2 v2 v6 AND v1 AND v1 v5 OR OR v1 AND2 v2 v3 AND2 AND OR v6 v6 v1 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="800" value2="49"/>
+	<Tree size="95">AND OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT v2 AND2 AND v3 NOT v4 v3 AND NOT AND v1 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR AND2 OR v2 v0 v6 NOT AND v4 v2 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 OR AND2 NOT OR NOT AND2 v5 v3 AND2 v0 AND2 v3 v6 OR OR NOT AND2 v6 v3 AND2 v2 v6 AND v1 AND v1 v5 OR OR v1 AND2 v2 v3 AND2 AND OR v6 v6 v1 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="850" value2="50"/>
+	<Tree size="90">AND OR NOT AND2 OR AND OR v5 v2 OR v5 v3 NOT AND v5 v6 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR AND AND v2 AND2 AND v6 v6 OR v3 v2 NOT v2 AND NOT AND AND2 v4 v2 v3 AND v6 NOT NOT v1 OR AND2 NOT v5 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v1 v0 AND AND2 OR v6 v4 NOT v5 AND v1 AND2 v5 v4 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="850" value2="50"/>
+	<Tree size="93">AND OR NOT AND2 OR AND OR v5 v2 OR v5 v3 NOT AND v5 v6 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR AND AND v2 AND2 AND v6 v6 OR v3 v2 NOT NOT AND2 v6 v3 AND NOT AND AND2 v4 v2 v3 AND v6 NOT NOT v1 OR AND2 NOT v5 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v1 v0 AND AND2 OR v6 v4 NOT v5 AND v1 AND2 v5 v4 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="850" value2="50"/>
+	<Tree size="93">AND OR NOT AND2 OR AND OR v5 v2 OR v5 v3 NOT AND v5 v6 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR AND AND v2 AND2 AND v6 v6 OR v3 v2 NOT NOT AND2 v6 v3 AND NOT AND AND2 v4 v2 v3 AND v6 NOT NOT v1 OR AND2 NOT v5 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v1 v0 AND AND2 OR v6 v4 NOT v5 AND v1 AND2 v5 v4 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="850" value2="50"/>
+	<Tree size="93">AND OR NOT AND2 OR AND OR v5 v2 OR v5 v3 NOT AND v5 v6 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR AND AND v2 AND2 AND v6 v6 OR v3 v2 NOT NOT AND2 v6 v3 AND NOT AND AND2 v4 v2 v3 AND v6 NOT NOT v1 OR AND2 NOT v5 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v1 v0 AND AND2 OR v6 v4 NOT v5 AND v1 AND2 v5 v4 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="902" value2="51"/>
+	<Tree size="88">AND OR OR AND AND v2 AND2 NOT v6 NOT v5 NOT v5 AND AND NOT AND2 v3 v2 NOT NOT v1 AND v6 NOT NOT v1 NOT AND2 OR AND OR v2 v5 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR AND2 v6 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v4 v0 AND AND2 OR v6 v4 v2 AND v1 OR v4 v5 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="902" value2="51"/>
+	<Tree size="88">AND OR OR AND AND v2 AND2 NOT v6 NOT v5 NOT v5 AND AND NOT AND2 v3 v2 NOT NOT v1 AND v6 NOT NOT v1 NOT AND2 OR AND OR v2 v5 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR AND2 v6 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v4 v0 AND AND2 OR v6 v4 v2 AND v1 OR v4 v5 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="902" value2="51"/>
+	<Tree size="88">AND OR OR AND AND v2 AND2 NOT v6 NOT v5 NOT v5 AND AND NOT AND2 v3 v2 NOT NOT v1 AND v6 NOT NOT v1 NOT AND2 OR AND OR v2 v5 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR AND2 v6 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v4 v0 AND AND2 OR v6 v4 v2 AND v1 OR v4 v5 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="902" value2="51"/>
+	<Tree size="88">AND OR OR AND AND v2 AND2 NOT v6 NOT v5 NOT v5 AND AND NOT AND2 v3 v2 NOT NOT v1 AND v6 NOT NOT v1 NOT AND2 OR AND OR v2 v5 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR AND2 v6 OR OR NOT AND2 v6 v3 AND2 OR v3 v5 OR v4 v0 AND AND2 OR v6 v4 v2 AND v1 OR v4 v5 OR OR v1 AND2 v2 v3 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="956" value2="52"/>
+	<Tree size="97">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v1 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT AND v0 v2 OR v6 AND2 v2 v4 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 v1 OR OR v1 AND2 v2 v3 AND NOT NOT AND2 v6 v3 AND NOT AND2 v2 v6 OR AND2 v4 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="956" value2="52"/>
+	<Tree size="97">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v1 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT AND v0 v2 OR v6 AND2 v2 v4 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 v1 OR OR v1 AND2 v2 v3 AND NOT NOT AND2 v6 v3 AND NOT AND2 v2 v6 OR AND2 v4 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="956" value2="52"/>
+	<Tree size="72">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v1 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND NOT NOT AND2 v6 v3 AND NOT AND2 v6 v2 OR AND2 v4 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="956" value2="52"/>
+	<Tree size="97">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v1 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT AND v0 v2 OR v6 AND2 v2 v4 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 v1 OR OR v1 AND2 v2 v3 AND NOT NOT AND2 v6 v3 AND NOT AND2 v2 v6 OR AND2 v4 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1016" value2="53"/>
+	<Tree size="83">AND OR OR AND AND OR v1 v6 AND2 AND v0 v6 OR v3 v3 NOT v5 AND AND2 v6 v3 AND v6 NOT NOT v1 NOT AND2 OR AND OR v5 v4 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR OR AND AND v4 AND2 AND2 v5 v4 v0 OR v4 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 OR OR v1 AND2 v2 v3 AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1016" value2="53"/>
+	<Tree size="83">AND OR OR AND AND OR v1 v6 AND2 AND v0 v6 OR v3 v3 NOT v5 AND AND2 v6 v3 AND v6 NOT NOT v1 NOT AND2 OR AND OR v5 v4 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR OR AND AND v4 AND2 AND2 v5 v4 v0 OR v4 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 OR OR v1 AND2 v2 v3 AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1016" value2="53"/>
+	<Tree size="83">AND OR OR AND AND OR v1 v4 AND2 AND v0 v6 OR v3 v3 NOT v5 AND AND2 v6 v3 AND v6 NOT NOT v1 NOT AND2 OR AND OR v5 v4 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR OR AND AND v4 AND2 AND2 v5 v4 v0 OR v4 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 OR OR v1 AND2 v2 v3 AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1016" value2="53"/>
+	<Tree size="83">AND OR OR AND AND OR v1 v6 AND2 AND v0 v6 OR v3 v3 NOT v5 AND AND2 v6 v3 AND v6 NOT NOT v1 NOT AND2 OR AND OR v5 v4 OR v5 v3 NOT AND v5 v2 AND OR NOT v4 AND v6 v2 NOT AND2 v3 v6 OR OR AND AND v4 AND2 AND2 v5 v4 v0 OR v4 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 OR OR v1 AND2 v2 v3 AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1066" value2="54"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v3 v0 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v4 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1066" value2="54"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v3 v0 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v4 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1066" value2="54"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v3 v0 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1066" value2="54"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v3 v0 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v4 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1130" value2="55"/>
+	<Tree size="77">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v4 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v5 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND v2 v2 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1130" value2="55"/>
+	<Tree size="77">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v4 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v5 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND v2 v2 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1130" value2="55"/>
+	<Tree size="77">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v4 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v5 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND v2 v2 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1130" value2="55"/>
+	<Tree size="77">AND OR OR AND v2 v6 AND AND v6 NOT NOT v1 NOT AND AND v4 v3 AND v4 v3 NOT AND2 OR OR AND2 v5 v5 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1190" value2="56"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v0 v2 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1190" value2="56"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v0 v2 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1190" value2="56"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v0 v2 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1190" value2="56"/>
+	<Tree size="72">AND OR OR AND AND v4 AND2 NOT v2 OR v1 v5 v5 AND NOT AND AND2 v3 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v4 v2 NOT AND v0 v2 AND OR NOT v4 AND v2 v6 NOT v3 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v0 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1251" value2="57"/>
+	<Tree size="84">AND OR OR AND AND AND AND v3 v3 OR v2 v3 AND2 AND v0 v4 OR v3 v3 NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 v0 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1251" value2="57"/>
+	<Tree size="84">AND OR OR AND AND AND AND v3 v3 OR v2 v3 AND2 AND v0 v4 OR v3 v3 NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 v0 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1251" value2="57"/>
+	<Tree size="84">AND OR OR AND AND AND AND v3 v3 OR v2 v3 AND2 AND v0 v4 OR v3 v3 NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 v0 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1251" value2="57"/>
+	<Tree size="84">AND OR OR AND AND AND AND v3 v3 OR v2 v3 AND2 AND v0 v4 OR v3 v3 NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 v0 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1314" value2="58"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v3 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1314" value2="58"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v3 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1314" value2="58"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v3 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1314" value2="58"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v3 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1379" value2="59"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v4 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1379" value2="59"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v4 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1379" value2="59"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v4 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1379" value2="59"/>
+	<Tree size="76">AND OR OR AND AND v5 AND2 AND v0 v4 OR v3 v3 NOT v6 AND NOT AND AND2 v4 v2 AND v4 v3 AND v6 NOT NOT v1 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR AND2 AND v3 v2 v3 OR v1 AND v2 OR AND2 v3 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1444" value2="60"/>
+	<Tree size="69">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 NOT NOT AND2 v6 v3 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v4 v3 AND v2 v0 AND AND NOT NOT v1 v6 NOT AND v4 AND v4 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1444" value2="60"/>
+	<Tree size="69">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 NOT NOT AND2 v6 v3 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v4 v3 AND v2 v0 AND AND NOT NOT v1 v6 NOT AND v4 AND v4 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1444" value2="60"/>
+	<Tree size="69">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 NOT NOT AND2 v6 v3 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v4 v3 AND v2 v0 AND AND NOT NOT v1 v6 NOT AND v4 AND v4 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1444" value2="60"/>
+	<Tree size="69">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 NOT NOT AND2 v6 v3 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v4 v3 AND v2 v0 AND AND NOT NOT v1 v6 NOT AND v4 AND v4 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1510" value2="61"/>
+	<Tree size="70">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 v1 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v3 v3 NOT OR OR v3 v6 AND2 v3 v1 AND AND NOT NOT v1 v6 NOT AND v4 AND v3 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1510" value2="61"/>
+	<Tree size="70">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 v1 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v3 v3 NOT OR OR v3 v6 AND2 v3 v1 AND AND NOT NOT v1 v6 NOT AND v4 AND v3 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1510" value2="61"/>
+	<Tree size="70">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 v1 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v3 v3 NOT OR OR v3 v6 AND2 v3 v1 AND AND NOT NOT v1 v6 NOT AND v4 AND v3 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1510" value2="61"/>
+	<Tree size="70">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v3 v6 NOT v4 v1 OR NOT AND2 OR NOT v1 v1 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR AND AND v5 AND2 AND v4 v0 OR v3 v3 NOT OR OR v3 v6 AND2 v3 v1 AND AND NOT NOT v1 v6 NOT AND v4 AND v3 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1578" value2="62"/>
+	<Tree size="74">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 OR OR AND AND v5 AND2 OR v4 v0 OR v3 v3 NOT v6 AND AND v6 NOT NOT v1 NOT AND OR v6 v3 AND v4 v3 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1578" value2="62"/>
+	<Tree size="74">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 OR OR AND AND v5 AND2 OR v4 v0 OR v3 v3 NOT v6 AND AND v6 NOT NOT v1 NOT AND OR v6 v3 AND v4 v3 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1578" value2="62"/>
+	<Tree size="74">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 OR OR AND AND v5 AND2 OR v4 v0 OR v3 v3 NOT v6 AND AND v6 NOT NOT v1 NOT AND OR v6 v3 AND v4 v3 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1578" value2="62"/>
+	<Tree size="74">AND OR NOT NOT NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 OR OR AND AND v5 AND2 OR v4 v0 OR v3 v3 NOT v6 AND AND v6 NOT NOT v1 NOT AND OR v6 v3 AND v4 v3 NOT AND2 OR OR AND2 v3 v6 AND2 v3 v2 NOT AND v5 v2 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1654" value2="63"/>
+	<Tree size="76">AND OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1654" value2="63"/>
+	<Tree size="76">AND OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1654" value2="63"/>
+	<Tree size="76">AND OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1654" value2="63"/>
+	<Tree size="76">AND OR NOT AND2 OR NOT v1 v3 AND OR NOT v4 AND v1 v2 NOT AND2 v3 v6 NOT AND2 OR OR AND2 v5 v6 v4 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND2 v2 v3 AND2 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v2 v4 OR OR NOT v3 AND2 v5 v0 AND v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1720" value2="64"/>
+	<Tree size="65">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 NOT v4 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1720" value2="64"/>
+	<Tree size="65">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 NOT v4 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1720" value2="64"/>
+	<Tree size="65">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 NOT v4 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1720" value2="64"/>
+	<Tree size="65">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 NOT v4 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1794" value2="65"/>
+	<Tree size="66">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 AND2 v5 v1 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1794" value2="65"/>
+	<Tree size="66">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 AND2 v5 v1 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1794" value2="65"/>
+	<Tree size="66">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 AND2 v5 v1 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1794" value2="65"/>
+	<Tree size="66">AND OR OR AND AND OR OR v3 v4 v6 AND AND v4 v0 AND2 v5 v1 OR NOT AND v3 v6 v2 AND AND v2 v1 NOT v1 NOT AND2 OR NOT v1 OR v3 v3 AND OR NOT v4 AND v2 v6 NOT AND2 v3 v6 OR NOT NOT AND2 v6 v3 OR OR v1 AND v2 OR AND2 v5 v5 NOT v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1866" value2="66"/>
+	<Tree size="97">AND OR OR AND AND OR OR v3 v4 AND v3 v3 AND2 OR v6 v4 OR v3 v3 OR v3 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR NOT AND v5 v1 AND OR v5 v2 OR v5 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND v6 v5 v3 OR OR NOT NOT AND2 v6 v3 AND2 OR AND2 v2 v6 v2 v6 OR OR OR AND2 v2 v6 v1 v4 AND v2 OR v1 OR v5 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1866" value2="66"/>
+	<Tree size="86">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT v4 NOT AND2 OR OR v3 NOT v0 NOT AND v6 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND v1 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 OR OR NOT NOT AND2 v6 v3 AND2 v3 v6 OR OR OR AND2 v2 v6 v1 AND2 v4 v2 AND v2 OR v4 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1866" value2="66"/>
+	<Tree size="86">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT v4 NOT AND2 OR OR v3 NOT v0 NOT AND v6 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND v1 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 OR OR NOT NOT AND2 v6 v3 AND2 v3 v6 OR OR OR AND2 v2 v6 v1 AND2 v4 v2 AND v2 OR v4 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1866" value2="66"/>
+	<Tree size="89">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT v4 NOT AND2 OR OR AND v0 v6 AND v1 v1 NOT AND v6 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND v1 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 OR OR NOT NOT AND2 v6 v3 AND2 v3 v6 OR OR OR AND2 v2 v6 v1 AND2 v4 v3 AND v2 OR v4 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1942" value2="67"/>
+	<Tree size="86">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND v1 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 OR OR NOT NOT AND2 v6 v3 AND2 v3 v6 OR OR OR AND2 v2 v6 v1 AND2 v3 v6 AND v2 OR v4 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1942" value2="67"/>
+	<Tree size="94">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 OR OR NOT NOT AND2 v6 v3 AND2 v3 v6 OR OR OR AND2 v2 v6 v1 AND2 v3 v6 AND v2 OR v4 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1942" value2="67"/>
+	<Tree size="94">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 OR OR NOT NOT AND2 v6 v3 AND2 v3 v6 OR OR OR AND2 v2 v6 v1 AND2 v3 v6 AND v2 OR v4 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="1942" value2="67"/>
+	<Tree size="94">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 OR OR NOT NOT AND2 v6 v3 AND2 v3 v6 OR OR OR AND2 v2 v6 v1 AND2 v3 v6 AND v2 OR v4 AND v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2020" value2="68"/>
+	<Tree size="78">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2020" value2="68"/>
+	<Tree size="78">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2020" value2="68"/>
+	<Tree size="78">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2020" value2="68"/>
+	<Tree size="78">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2096" value2="69"/>
+	<Tree size="76">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND v6 v2 OR OR NOT NOT AND2 v6 v3 AND2 v6 v3 OR OR OR AND2 v2 v1 v1 AND2 v3 v3 AND2 v2 OR v4 AND v0 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2096" value2="69"/>
+	<Tree size="76">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND v6 v2 OR OR NOT NOT AND2 v6 v3 AND2 v6 v3 OR OR OR AND2 v2 v1 v1 AND2 v3 v3 AND2 v2 OR v4 AND v0 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2096" value2="69"/>
+	<Tree size="76">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND v6 v2 OR OR NOT NOT AND2 v6 v3 AND2 v6 v3 OR OR OR AND2 v2 v1 v1 AND2 v3 v3 AND2 v2 OR v4 AND v0 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2096" value2="69"/>
+	<Tree size="76">AND OR OR NOT NOT AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR AND v2 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND v6 v2 OR OR NOT NOT AND2 v6 v3 AND2 v6 v3 OR OR OR AND2 v2 v1 v1 AND2 v3 v3 AND2 v2 OR v4 AND v0 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2176" value2="70"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2176" value2="70"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v6 v6 v3 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2176" value2="70"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 v3 AND OR v6 v6 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND v5 v4 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2176" value2="70"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v6 v6 v3 v3 OR OR NOT NOT AND2 v6 v3 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2256" value2="71"/>
+	<Tree size="104">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND OR v1 NOT AND v6 v2 v1 AND2 v2 v2 OR OR NOT NOT AND2 v6 v3 AND OR AND2 v4 v4 AND2 v2 v4 v2 OR OR OR AND2 v2 v6 v1 AND2 AND v4 v4 v6 AND AND2 OR v4 v3 NOT v5 NOT OR v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2256" value2="71"/>
+	<Tree size="104">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND OR v1 NOT AND v5 v2 v1 AND2 v2 v2 OR OR NOT NOT AND2 v6 v3 AND OR AND2 v4 v4 AND2 v2 v4 v2 OR OR OR AND2 v2 v6 v1 AND2 AND v4 v4 v6 AND AND2 OR v4 v3 NOT v5 NOT OR v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2256" value2="71"/>
+	<Tree size="104">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND OR v1 NOT AND v5 v2 v1 AND2 v2 v2 OR OR NOT NOT AND2 v6 v3 AND OR AND2 v4 v4 AND2 v2 v4 v2 OR OR OR AND2 v2 v6 v1 AND2 AND v4 v4 v6 AND AND2 OR v4 v3 NOT v5 NOT OR v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2256" value2="71"/>
+	<Tree size="104">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND OR v1 NOT AND v5 v2 v1 AND2 v2 v2 OR OR NOT NOT AND2 v6 v3 AND OR AND2 v4 v4 AND2 v2 v4 v2 OR OR OR AND2 v2 v6 v1 AND2 AND v4 v4 v6 AND AND2 OR v4 v3 NOT v5 NOT OR v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2336" value2="72"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 v2 v3 OR OR NOT NOT AND2 v6 v3 AND2 v3 OR NOT v5 AND2 v2 v4 OR OR NOT NOT v1 AND2 v4 v6 AND v2 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2336" value2="72"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 v2 v3 OR OR NOT NOT AND2 v6 v3 AND2 v3 OR NOT v5 AND2 v2 v4 OR OR NOT NOT v1 AND2 v4 v6 AND v2 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2336" value2="72"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 v2 v3 OR OR NOT NOT AND2 v6 v3 AND2 v3 OR NOT v5 AND2 v2 v4 OR OR NOT NOT v1 AND2 v4 v6 AND v2 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2336" value2="72"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v0 NOT AND2 v6 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 v2 v3 OR OR NOT NOT AND2 v6 v3 AND2 v3 OR NOT v5 AND2 v2 v4 OR OR NOT NOT v1 AND2 v4 v6 AND v2 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2422" value2="73"/>
+	<Tree size="108">AND OR OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v1 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND v5 AND2 AND v0 v4 OR v3 v3 OR OR AND2 OR AND2 v0 v1 NOT v3 NOT OR v6 v1 OR OR AND2 v2 v6 v2 v1 OR OR OR AND2 v2 v0 v1 AND2 v3 v6 AND AND2 OR v6 v6 NOT v5 AND2 v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2422" value2="73"/>
+	<Tree size="108">AND OR OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v1 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND v5 AND2 AND v0 v4 OR v3 v3 OR OR AND2 OR AND2 v0 v1 NOT v3 NOT OR v6 v1 OR OR AND2 v2 v6 v2 v1 OR OR OR AND2 v2 v0 v1 AND2 v3 v6 AND AND2 OR v6 v6 NOT v5 AND2 v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2422" value2="73"/>
+	<Tree size="108">AND OR OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v1 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND v5 AND2 AND v0 v4 OR v3 v3 OR OR AND2 OR AND2 v0 v1 NOT v3 NOT OR v6 v1 OR OR AND2 v2 v6 v2 v1 OR OR OR AND2 v2 v0 v1 AND2 v3 v6 AND AND2 OR v6 v6 NOT v5 AND2 v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2422" value2="73"/>
+	<Tree size="108">AND OR OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v1 v4 v4 NOT AND2 OR NOT v6 OR AND v0 v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND v5 AND2 AND v0 v4 OR v3 v3 OR OR AND2 OR AND2 v0 v1 NOT v3 NOT OR v6 v1 OR OR AND2 v2 v6 v2 v1 OR OR OR AND2 v2 v0 v1 AND2 v3 v6 AND AND2 OR v6 v6 NOT v5 AND2 v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2506" value2="74"/>
+	<Tree size="85">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v6 v3 OR OR NOT NOT AND2 v6 v1 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 NOT v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2506" value2="74"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v1 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2506" value2="74"/>
+	<Tree size="86">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v1 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2506" value2="74"/>
+	<Tree size="84">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v4 v4 NOT AND2 OR OR v3 NOT v2 NOT AND v5 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND2 AND OR v0 v6 v3 v3 OR OR NOT NOT AND2 v6 v1 v2 OR OR AND2 v3 v6 OR AND2 v2 v1 v1 AND v6 OR v4 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2595" value2="75"/>
+	<Tree size="92">AND OR OR AND AND OR OR v0 v5 v6 AND2 OR v0 v4 OR v3 v3 OR v1 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR v6 v4 NOT AND2 OR NOT v6 OR AND2 v4 v6 OR v3 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR OR OR AND2 OR OR v0 v1 NOT v3 NOT OR v6 v4 OR OR AND2 v3 v6 v2 AND2 v3 v4 OR OR v1 AND2 v2 v3 AND v2 OR v5 NOT v4 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2595" value2="75"/>
+	<Tree size="92">AND OR OR AND AND OR OR v0 v5 v6 AND2 OR v0 v4 OR v3 v3 OR v1 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR v6 v4 NOT AND2 OR NOT v6 OR AND2 v4 v6 OR v3 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR OR OR AND2 OR OR v0 v1 NOT v3 NOT OR v6 v4 OR OR AND2 v3 v6 v2 AND2 v3 v4 OR OR v1 AND2 v2 v3 AND v2 OR v5 NOT v4 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2595" value2="75"/>
+	<Tree size="97">AND OR OR AND AND OR OR v0 v5 v6 AND2 OR v0 v4 OR v3 v3 OR v1 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR v6 v4 NOT AND2 OR NOT v6 OR AND2 v4 v6 OR v3 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR OR OR AND2 OR OR v0 v1 NOT v3 NOT OR v6 v4 OR OR AND2 v2 v6 v2 AND2 v3 v4 OR OR v1 AND2 v2 v3 AND v2 OR v5 NOT v4 AND2 AND NOT v1 v1 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2595" value2="75"/>
+	<Tree size="92">AND OR OR AND AND OR OR v0 v5 v6 AND2 OR v0 v4 OR v3 v3 OR v1 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT OR v6 v4 NOT AND2 OR NOT v6 OR AND2 v4 v6 OR v3 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR OR OR AND2 OR OR v0 v1 NOT v3 NOT OR v6 v4 OR OR AND2 v3 v6 v2 AND2 v3 v4 OR OR v1 AND2 v2 v3 AND v2 OR v5 NOT v4 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2684" value2="76"/>
+	<Tree size="85">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v1 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT v1 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2684" value2="76"/>
+	<Tree size="85">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v1 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT v1 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2684" value2="76"/>
+	<Tree size="85">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v1 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT v1 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2684" value2="76"/>
+	<Tree size="85">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v1 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT v1 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2775" value2="77"/>
+	<Tree size="92">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v5 v6 v4 NOT AND2 OR v1 NOT AND v1 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND AND NOT AND v4 v3 AND NOT v3 v2 v1 v4 OR OR NOT NOT AND2 v6 v3 AND v2 NOT AND v6 v3 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2775" value2="77"/>
+	<Tree size="84">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v5 v6 v4 NOT AND2 OR v1 NOT AND v3 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND v2 v1 v4 OR OR NOT NOT AND2 v6 v3 AND NOT AND v6 v3 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2775" value2="77"/>
+	<Tree size="84">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v5 v6 v4 NOT AND2 OR v1 NOT AND v3 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND v2 v1 v4 OR OR NOT NOT AND2 v6 v3 AND NOT AND v6 v3 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2775" value2="77"/>
+	<Tree size="84">AND OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v5 v6 v4 NOT AND2 OR v1 NOT AND v3 v1 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR AND v2 v1 v4 OR OR NOT NOT AND2 v6 v3 AND NOT AND v6 v3 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2866" value2="78"/>
+	<Tree size="85">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT v1 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2866" value2="78"/>
+	<Tree size="88">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT NOT AND2 v3 v2 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2866" value2="78"/>
+	<Tree size="85">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT v1 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2866" value2="78"/>
+	<Tree size="88">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v5 OR OR v4 v4 v1 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 AND v2 v1 NOT NOT NOT AND2 v3 v2 OR OR v3 AND2 v2 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v4 OR v0 v3 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2958" value2="79"/>
+	<Tree size="91">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR AND2 v3 v2 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR OR NOT NOT v2 AND AND2 v6 v6 AND2 v4 v4 OR OR v3 AND2 v1 v6 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 AND2 AND v4 OR v0 v3 OR AND2 v2 v3 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2958" value2="79"/>
+	<Tree size="87">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR AND2 v3 v2 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT AND2 v6 v2 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND2 v2 OR v2 v6 OR OR v3 AND2 v1 v6 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 AND2 AND v4 OR v0 v3 OR AND2 v2 v3 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2958" value2="79"/>
+	<Tree size="91">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR AND2 v3 v2 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR OR NOT NOT v2 AND AND2 v6 v6 AND2 v4 v4 OR OR v3 AND2 v1 v6 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 AND2 AND v4 OR v0 v3 OR AND2 v2 v3 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="2958" value2="79"/>
+	<Tree size="91">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR AND2 v3 v2 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR OR NOT NOT v2 AND AND2 v6 v6 AND2 v4 v4 OR OR v3 AND2 v1 v6 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 AND2 AND v4 OR v0 v3 OR AND2 v2 v3 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3054" value2="80"/>
+	<Tree size="75">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR NOT v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR v6 OR OR v3 AND2 v1 v6 OR OR OR v4 OR v2 v3 OR v4 v2 OR AND v0 OR v0 v3 OR v6 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3054" value2="80"/>
+	<Tree size="96">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR NOT v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND AND v6 v0 v6 OR AND2 OR NOT AND2 v3 v5 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v0 OR v0 v2 OR AND2 v3 v2 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3054" value2="80"/>
+	<Tree size="75">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR NOT v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR v6 OR OR v3 AND2 v1 v6 OR OR OR v4 OR v2 v6 OR v4 v2 OR AND v0 OR v0 v3 OR v6 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3054" value2="80"/>
+	<Tree size="75">AND OR OR AND AND v4 AND2 AND2 v6 v3 OR v3 v3 OR NOT v4 v4 AND AND NOT NOT v1 NOT AND2 v3 v2 NOT AND AND v5 v2 v4 NOT AND2 OR v4 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR v6 OR OR v3 AND2 v1 v6 OR OR OR v4 OR v2 v3 OR v4 v2 OR AND v0 OR v0 v3 OR v6 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3148" value2="81"/>
+	<Tree size="89">AND OR NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND AND NOT AND2 v6 v2 AND v1 AND v2 v6 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 OR v4 NOT NOT v1 OR NOT NOT v1 OR OR NOT NOT AND2 v4 v3 AND2 v1 v6 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 OR OR v3 v6 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3148" value2="81"/>
+	<Tree size="90">AND OR NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND AND NOT AND2 v6 v2 AND v1 AND v2 v6 AND OR AND2 v0 v6 AND v2 v1 NOT AND2 v3 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 OR v4 NOT NOT v1 OR NOT NOT v1 OR OR NOT NOT AND2 v4 v3 AND2 v1 v6 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 OR OR v3 v6 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3148" value2="81"/>
+	<Tree size="82">AND OR NOT NOT v1 OR v1 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 OR OR v3 v6 AND2 v3 v6 OR NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND AND NOT AND2 v6 v2 AND v1 AND v2 v6 AND OR AND2 v0 v6 AND v2 v1 NOT AND2 v3 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 OR v4 NOT NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3148" value2="81"/>
+	<Tree size="82">AND OR NOT NOT v1 OR v1 OR OR OR v4 OR v2 v6 OR AND2 v0 v5 v2 OR OR v3 v6 AND2 v3 v6 OR NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 OR AND AND NOT AND2 v6 v2 AND v1 AND v2 v6 AND OR AND2 v0 v6 AND v2 v1 NOT AND2 v3 v6 AND AND NOT NOT v1 NOT AND2 v3 v2 OR v4 NOT NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3244" value2="82"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v3 v6 v5 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3244" value2="82"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v3 v6 v5 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3244" value2="82"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v3 v6 v5 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3244" value2="82"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v3 v6 v6 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v4 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3342" value2="83"/>
+	<Tree size="90">AND OR NOT AND2 OR v6 NOT AND v6 v6 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR AND v4 v1 OR v4 v5 AND2 OR v0 v6 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 v2 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3342" value2="83"/>
+	<Tree size="90">AND OR NOT AND2 OR v6 NOT AND v6 v6 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR AND v4 v1 OR v4 v5 AND2 OR v0 v6 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 v2 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3342" value2="83"/>
+	<Tree size="90">AND OR NOT AND2 OR v6 NOT AND v6 v6 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR AND v4 v1 OR v4 v5 AND2 OR v0 v6 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 v2 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3342" value2="83"/>
+	<Tree size="90">AND OR NOT AND2 OR v6 NOT AND v6 v6 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR AND v4 v1 OR v4 v5 AND2 OR v0 v6 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 v2 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3446" value2="84"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v4 v6 v6 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3446" value2="84"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v4 v6 v6 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3446" value2="84"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v4 v6 v6 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3446" value2="84"/>
+	<Tree size="96">AND OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 OR AND AND OR OR v4 v6 v6 AND2 OR v6 v2 OR v3 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND v4 v2 AND2 v1 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3550" value2="85"/>
+	<Tree size="100">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v3 NOT AND2 v3 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v6 OR OR AND2 v3 v6 NOT NOT AND2 v6 v1 OR OR OR AND2 v3 v2 v1 AND2 v3 v6 AND AND2 NOT v4 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3550" value2="85"/>
+	<Tree size="100">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v3 NOT AND2 v3 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v6 OR OR AND2 v3 v6 NOT NOT AND2 v6 v1 OR OR OR AND2 v3 v2 v1 AND2 v3 v6 AND AND2 NOT v4 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3550" value2="85"/>
+	<Tree size="100">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v3 NOT AND2 v3 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v6 OR OR AND2 v3 v6 NOT NOT AND2 v6 v1 OR OR OR AND2 v3 v2 v1 AND2 v3 v6 AND AND2 NOT v4 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3550" value2="85"/>
+	<Tree size="100">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v0 v6 OR v3 v3 OR v3 NOT AND2 v3 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v6 OR OR AND2 v3 v6 NOT NOT AND2 v6 v1 OR OR OR AND2 v3 v2 v1 AND2 v3 v6 AND AND2 NOT v4 NOT v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3664" value2="86"/>
+	<Tree size="71">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 v2 v6 AND v3 v0 AND2 OR v0 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3664" value2="86"/>
+	<Tree size="105">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v3 OR OR AND2 OR v6 v3 NOT v6 AND v2 OR v6 AND2 v2 v4 OR OR OR AND2 v4 v6 v1 AND2 v3 v6 AND AND2 NOT v4 NOT v1 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3664" value2="86"/>
+	<Tree size="105">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v3 OR OR AND2 OR v6 v3 NOT v6 AND v2 OR v6 AND2 v2 v4 OR OR OR AND2 v4 v6 v1 AND2 v3 v6 AND AND2 NOT v4 NOT v1 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3664" value2="86"/>
+	<Tree size="105">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v3 OR OR AND2 OR v6 v3 NOT v6 AND v2 OR v6 AND2 v2 v4 OR OR OR AND2 v4 v6 v1 AND2 v3 v6 AND AND2 NOT v4 NOT v1 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3772" value2="87"/>
+	<Tree size="103">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v4 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v3 OR OR AND2 OR v6 v3 NOT v6 AND v2 OR v6 AND2 v2 v4 OR OR OR AND2 v4 v6 v1 AND2 v3 v6 AND OR v1 v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3772" value2="87"/>
+	<Tree size="103">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v3 OR OR AND2 OR v6 v3 NOT v6 AND v2 OR v6 AND2 v2 v4 OR OR OR AND2 v4 v6 v1 AND2 v3 v6 AND OR v1 v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3772" value2="87"/>
+	<Tree size="103">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v3 OR OR AND2 OR v6 v3 NOT v6 AND v2 OR v6 AND2 v2 v4 OR OR OR AND2 v4 v6 v1 AND2 v3 v6 AND OR v1 v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3772" value2="87"/>
+	<Tree size="103">AND OR NOT AND2 OR v1 NOT AND v1 v4 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR OR v4 v4 AND2 v4 v2 AND2 OR v2 v6 OR v3 v3 OR v3 NOT AND2 v3 v4 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v4 v3 AND v4 v2 OR AND2 OR AND2 v2 v6 NOT v0 AND v5 v3 OR OR AND2 OR v6 v3 NOT v6 AND v2 OR v6 AND2 v2 v4 OR OR OR AND2 v4 v6 v1 AND2 v3 v6 AND OR v1 v5 NOT v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3886" value2="88"/>
+	<Tree size="104">OR OR OR AND AND AND2 AND v6 v6 OR v3 v3 OR AND2 v6 v3 OR v3 v3 OR v3 v6 AND AND NOT AND2 v3 v4 OR AND2 v3 v2 AND v0 v2 AND AND AND v4 v6 AND v6 v3 NOT OR v6 v3 NOT AND2 OR AND2 v3 v2 NOT v1 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 OR OR NOT AND2 v3 v6 NOT OR v4 v0 AND2 v6 AND v2 v1 v6 AND2 AND2 OR NOT NOT v2 AND AND2 v6 v6 AND2 v4 v4 AND2 v2 NOT AND2 v5 v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3886" value2="88"/>
+	<Tree size="102">OR OR OR AND AND AND2 AND v6 v6 OR v3 v3 OR AND2 v6 v3 OR v3 v3 OR v3 v6 AND AND NOT AND2 v3 v4 OR AND2 v3 v2 AND v0 v2 AND AND v1 AND v6 v3 NOT OR v6 v3 NOT AND2 OR AND2 v3 v2 NOT v1 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 OR OR NOT AND2 v3 v6 NOT OR v4 v0 AND2 v6 AND v2 v1 v6 AND2 AND2 OR NOT NOT v2 AND AND2 v6 v6 AND2 v4 v4 AND2 v2 NOT AND2 v5 v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3886" value2="88"/>
+	<Tree size="102">OR OR OR AND AND AND2 AND v6 v6 OR v3 v3 OR AND2 v6 v3 OR v3 v3 OR v3 v6 AND AND NOT AND2 v3 v4 OR v2 AND v0 v2 AND AND AND v4 v6 AND v6 v3 NOT OR v6 v3 NOT AND2 OR AND2 v3 v2 NOT v1 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 OR OR NOT AND2 v3 v6 NOT OR v4 v0 AND2 v6 AND v2 v1 v6 AND2 AND2 OR NOT NOT v2 AND AND2 v6 v6 AND2 v4 v4 AND2 v2 NOT AND2 v5 v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="3886" value2="88"/>
+	<Tree size="102">OR OR OR AND AND AND2 AND v6 v6 OR v3 v3 OR AND2 v6 v3 OR v3 v3 OR v3 v6 AND AND NOT AND2 v3 v4 OR AND2 v3 v2 AND v0 v2 AND AND v1 AND v6 v3 NOT OR v6 v3 NOT AND2 OR AND2 v3 v2 NOT v1 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 OR OR NOT AND2 v3 v6 NOT OR v4 v0 AND2 v6 AND v2 v1 v6 AND2 AND2 OR NOT NOT v2 AND AND2 v6 v6 AND2 v4 v4 AND2 v2 NOT AND2 v5 v0 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4000" value2="89"/>
+	<Tree size="80">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 v2 v6 AND v3 v0 AND2 AND2 v2 AND2 OR AND v2 v4 v5 NOT AND2 v3 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4000" value2="89"/>
+	<Tree size="80">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 v2 v6 AND v3 v0 AND2 AND2 v2 AND2 OR AND v2 v4 v5 NOT AND2 v3 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4000" value2="89"/>
+	<Tree size="80">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 v2 v6 AND v3 v0 AND2 AND2 v2 AND2 OR AND v2 v4 v5 NOT AND2 v3 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4000" value2="89"/>
+	<Tree size="80">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 v2 v6 AND v3 v0 AND2 AND2 v2 AND2 OR AND v2 v4 v5 NOT AND2 v3 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4114" value2="90"/>
+	<Tree size="86">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v2 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4114" value2="90"/>
+	<Tree size="86">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v2 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4114" value2="90"/>
+	<Tree size="86">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v2 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4114" value2="90"/>
+	<Tree size="86">OR OR NOT AND2 OR v5 NOT AND2 v6 v3 AND AND2 NOT v4 AND v2 v1 NOT AND2 v3 v6 OR AND AND OR v4 AND2 v2 v3 AND2 OR v0 v6 OR v3 v3 OR OR v2 v6 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 NOT AND AND2 v0 v3 AND v4 v2 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v2 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4230" value2="91"/>
+	<Tree size="79">OR OR OR AND AND NOT AND2 v3 v6 AND2 AND v0 v1 AND2 v0 v5 OR NOT AND2 v6 v3 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v4 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4230" value2="91"/>
+	<Tree size="79">OR OR OR AND AND NOT AND2 v3 v6 AND2 AND v0 v1 AND2 v0 v5 OR OR NOT v1 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v2 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4230" value2="91"/>
+	<Tree size="79">OR OR OR AND AND NOT AND2 v3 v6 AND2 AND v0 v1 AND2 v0 v5 OR OR NOT v1 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v2 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4230" value2="91"/>
+	<Tree size="79">OR OR OR AND AND NOT AND2 v3 v6 AND2 AND v0 v1 AND2 v0 v5 OR OR NOT v1 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 v5 v6 v2 AND2 v4 NOT AND2 v3 v6 v6 AND2 AND v2 v2 AND AND2 AND2 v3 v6 AND2 v2 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4351" value2="92"/>
+	<Tree size="88">OR OR OR AND AND v6 AND2 AND v0 v1 AND2 v0 v5 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 AND2 v1 v2 v5 v2 AND2 OR AND v2 v4 AND v2 v1 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 OR v5 v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4351" value2="92"/>
+	<Tree size="88">OR OR OR AND AND v6 AND2 AND v0 v1 AND2 v0 v5 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 AND2 v1 v2 v5 v2 AND2 OR AND v2 v4 AND v2 v1 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 OR v5 v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4351" value2="92"/>
+	<Tree size="88">OR OR OR AND AND v6 AND2 AND v0 v1 AND2 v0 v5 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 AND2 v1 v2 v5 v2 AND2 OR AND v2 v4 AND v2 v1 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 OR v5 v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4351" value2="92"/>
+	<Tree size="88">OR OR OR AND AND v6 AND2 AND v0 v1 AND2 v0 v5 OR OR NOT v4 AND v2 v1 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR v1 v4 NOT AND2 OR NOT v6 v3 AND NOT AND2 v3 v6 OR NOT v4 AND v2 v1 AND AND2 AND2 OR AND2 AND2 v1 v2 v5 v2 AND2 OR AND v2 v4 AND v2 v1 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 OR v5 v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4473" value2="93"/>
+	<Tree size="70">OR OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v1 v5 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 AND2 v4 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4473" value2="93"/>
+	<Tree size="70">OR OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v1 v5 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 AND2 v4 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4473" value2="93"/>
+	<Tree size="70">OR OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v1 v5 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 AND2 v4 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4473" value2="93"/>
+	<Tree size="70">OR OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v1 v5 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v6 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 AND2 v4 v2 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4597" value2="94"/>
+	<Tree size="70">OR AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v0 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 AND2 v4 v2 v0 OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v5 v1 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4597" value2="94"/>
+	<Tree size="70">OR AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v0 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 AND2 v4 v2 v0 OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v5 v1 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4597" value2="94"/>
+	<Tree size="70">OR AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v0 v6 AND2 v2 AND AND AND2 v3 v6 OR AND2 v5 v6 AND2 v4 v2 v0 OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v5 v1 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4597" value2="94"/>
+	<Tree size="68">OR AND AND2 AND2 OR AND2 v0 v5 v2 AND2 OR AND v5 v4 AND v2 v4 NOT AND2 v3 v0 v6 AND2 v2 AND AND v3 OR AND2 v5 v6 AND2 v4 v2 v0 OR NOT AND2 OR NOT v1 OR OR v3 v6 AND v4 v6 AND OR NOT v4 AND v5 v1 NOT AND2 v3 v6 OR AND v2 v1 NOT NOT AND2 v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4719" value2="95"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4719" value2="95"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4719" value2="95"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4719" value2="95"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4844" value2="96"/>
+	<Tree size="76">OR AND AND2 v2 AND2 v6 v2 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4844" value2="96"/>
+	<Tree size="76">OR AND AND2 v2 AND2 v6 v2 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4844" value2="96"/>
+	<Tree size="76">OR AND AND2 v2 AND2 v6 v2 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4844" value2="96"/>
+	<Tree size="76">OR AND AND2 v2 AND2 v6 v2 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4969" value2="97"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v3 NOT AND2 v3 v6 OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4969" value2="97"/>
+	<Tree size="73">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 v4 NOT NOT v1 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4969" value2="97"/>
+	<Tree size="73">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 v4 NOT NOT v1 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="4969" value2="97"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v3 NOT AND2 v3 v6 OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5095" value2="98"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 v4 AND2 NOT v0 AND2 v6 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5095" value2="98"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 v4 AND2 NOT v0 AND2 v6 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5095" value2="98"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 v4 AND2 NOT v0 AND2 v6 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5095" value2="98"/>
+	<Tree size="76">OR AND AND2 v2 AND v5 v0 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 v4 AND2 NOT v0 AND2 v6 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5222" value2="99"/>
+	<Tree size="73">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v2 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5222" value2="99"/>
+	<Tree size="73">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v2 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5222" value2="99"/>
+	<Tree size="73">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v2 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5222" value2="99"/>
+	<Tree size="73">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v2 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5351" value2="100"/>
+	<Tree size="61">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 v2 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR v5 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5351" value2="100"/>
+	<Tree size="61">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 v2 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR v5 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5351" value2="100"/>
+	<Tree size="61">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 v2 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR v5 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5351" value2="100"/>
+	<Tree size="61">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 v2 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 OR OR v5 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5480" value2="101"/>
+	<Tree size="71">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND v4 v5 OR v1 v4 AND2 v2 AND v5 v1 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 NOT AND2 OR NOT AND2 v3 v5 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5480" value2="101"/>
+	<Tree size="71">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND v4 v5 OR v1 v4 AND2 v2 AND v5 v1 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 NOT AND2 OR NOT AND2 v3 v5 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5480" value2="101"/>
+	<Tree size="71">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 AND2 v2 AND v5 v1 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 NOT AND2 OR NOT AND2 v3 v5 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5480" value2="101"/>
+	<Tree size="71">OR AND AND2 v2 AND v5 v0 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 AND2 v2 AND v5 v1 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND2 v6 v3 v1 NOT AND2 OR NOT AND2 v3 v5 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5612" value2="102"/>
+	<Tree size="82">OR AND AND2 v2 AND v6 v0 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 AND2 OR AND2 v5 v6 AND2 v4 v2 NOT OR v3 v4 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5612" value2="102"/>
+	<Tree size="82">OR AND AND2 v2 AND v6 v2 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 AND2 OR AND2 v5 v6 AND2 v4 v2 NOT OR v3 v4 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5612" value2="102"/>
+	<Tree size="69">OR AND AND2 v2 AND AND AND v5 NOT v6 NOT AND v1 v1 v0 NOT AND2 v5 v5 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 AND2 OR AND2 v5 v6 AND2 v4 v2 NOT OR v3 v4 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5612" value2="102"/>
+	<Tree size="82">OR AND AND2 v2 AND v6 v0 NOT AND2 OR OR AND2 v0 v6 AND2 v3 v2 NOT OR v2 v6 AND OR NOT v4 AND v2 v2 NOT AND2 v3 v6 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 AND AND NOT NOT v1 NOT AND2 v3 v2 v1 NOT AND2 AND2 OR AND2 v5 v6 AND2 v4 v2 NOT OR v3 v4 AND OR NOT v4 AND2 v3 v6 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5741" value2="103"/>
+	<Tree size="70">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 NOT v1 OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT AND v5 v2 OR v6 AND2 v2 v4 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 NOT NOT v6 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5741" value2="103"/>
+	<Tree size="70">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 NOT v1 OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT AND v5 v2 OR v6 AND2 v2 v4 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 NOT NOT v6 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5741" value2="103"/>
+	<Tree size="70">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 NOT v1 OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT AND v5 v2 OR v6 AND2 v2 v4 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 NOT NOT v6 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5741" value2="103"/>
+	<Tree size="70">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 NOT v1 OR OR AND AND AND2 OR v0 v6 OR v3 v3 NOT AND v5 v2 OR v6 AND2 v2 v4 AND AND NOT AND2 v3 v2 NOT AND2 v3 v2 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 NOT NOT v6 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5872" value2="104"/>
+	<Tree size="58">OR OR OR AND AND v3 AND2 OR v5 v4 OR v1 v5 OR AND2 v3 v2 v1 AND AND2 AND AND v6 v6 v6 AND AND v4 v2 v1 NOT AND AND v4 v4 AND v4 v3 NOT AND2 OR NOT v1 OR AND v3 v1 v6 AND OR NOT v4 AND2 v3 v6 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5872" value2="104"/>
+	<Tree size="58">OR OR OR AND AND v3 AND2 OR v5 v4 OR v1 v5 OR AND2 v3 v2 v1 AND AND2 AND AND v6 v6 v6 AND AND v4 v2 v1 NOT AND AND v4 v4 AND v4 v3 NOT AND2 OR NOT v1 OR AND v3 v1 v6 AND OR NOT v4 AND2 v3 v6 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5872" value2="104"/>
+	<Tree size="58">OR OR OR AND AND v3 AND2 OR v5 v4 OR v1 v5 OR AND2 v3 v2 v1 AND AND2 AND AND v6 v6 v6 AND AND v4 v2 v1 NOT AND AND v4 v4 AND v4 v3 NOT AND2 OR NOT v1 OR AND v3 v1 v6 AND OR NOT v4 AND2 v3 v6 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="5872" value2="104"/>
+	<Tree size="58">OR OR OR AND AND v3 AND2 OR v5 v4 OR v1 v5 OR AND2 v3 v2 v1 AND AND2 AND AND v6 v6 v6 AND AND v4 v2 v1 NOT AND AND v4 v4 AND v4 v3 NOT AND2 OR NOT v1 OR AND v3 v1 v6 AND OR NOT v4 AND2 v3 v6 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6000" value2="105"/>
+	<Tree size="58">OR OR OR AND AND v4 AND2 OR v5 v4 OR v1 v5 OR v3 v0 AND AND2 AND v6 AND v6 v6 AND OR v6 v3 AND v2 v0 NOT AND AND v4 v3 AND2 v3 v2 NOT AND2 OR NOT v1 OR AND v2 v5 v3 AND OR NOT v4 AND v2 v1 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6000" value2="105"/>
+	<Tree size="56">OR OR OR AND AND v4 AND2 v4 OR v1 v5 OR v3 v0 AND AND2 AND v6 AND v6 v6 AND OR v4 v3 AND v2 v0 NOT AND AND v6 v4 AND2 v3 v2 NOT AND2 OR NOT v1 OR AND v2 v5 v3 AND OR NOT v4 AND v2 v1 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6000" value2="105"/>
+	<Tree size="56">OR OR OR AND AND v4 AND2 v4 OR v1 v5 OR v3 v0 AND AND2 AND v6 AND v6 v6 AND OR v4 v3 AND v2 v0 NOT AND AND v6 v4 AND2 v3 v2 NOT AND2 OR NOT v1 OR AND v2 v5 v3 AND OR NOT v4 AND v2 v1 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6000" value2="105"/>
+	<Tree size="54">OR OR OR AND AND v4 AND2 v4 OR v1 v5 OR v3 v0 AND AND2 AND v6 AND v6 v6 AND v2 AND v2 v0 NOT AND AND v6 v4 AND2 v3 v2 NOT AND2 OR NOT v1 OR AND v2 v5 v3 AND OR NOT v4 AND v2 v1 NOT v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6132" value2="106"/>
+	<Tree size="53">OR OR OR AND AND OR OR v4 v4 v6 AND2 OR v0 v4 OR v5 v1 NOT v2 AND AND2 v6 AND AND2 v5 v6 AND2 v4 v6 NOT AND AND v6 v3 AND v4 v6 NOT AND2 OR NOT v1 OR v3 v3 AND NOT v3 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6132" value2="106"/>
+	<Tree size="56">OR OR OR AND AND OR AND2 v5 v6 AND2 v4 v2 AND2 NOT v5 OR v1 v5 NOT v2 AND AND2 v6 AND AND2 v5 v6 AND2 v4 v6 NOT AND AND v6 v3 AND v6 v4 NOT AND2 OR NOT v1 OR v3 v3 AND NOT AND2 v3 v6 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6132" value2="106"/>
+	<Tree size="56">OR OR OR AND AND OR AND2 v5 v6 AND2 v4 v2 AND2 NOT v5 OR v1 v5 NOT v2 AND AND2 v6 AND AND2 v5 v6 AND2 v4 v6 NOT AND AND v6 v3 AND v6 v4 NOT AND2 OR NOT v1 OR v3 v3 AND NOT AND2 v3 v6 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6132" value2="106"/>
+	<Tree size="56">OR OR OR AND AND OR AND2 v5 v6 AND2 v4 v2 AND2 NOT v5 OR v1 v5 NOT v2 AND AND2 v6 AND AND2 v5 v6 AND2 v4 v6 NOT AND AND v6 v3 AND v6 v4 NOT AND2 OR NOT v1 OR v3 v3 AND NOT AND2 v3 v6 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6264" value2="107"/>
+	<Tree size="55">OR OR OR AND AND OR OR v4 v4 AND2 v0 v2 AND2 OR v0 v4 OR v1 v5 NOT v2 AND AND2 v6 AND AND2 v5 v6 AND2 v4 v6 NOT AND AND v6 v3 AND v4 v6 NOT AND2 OR NOT v1 OR v3 v3 AND NOT v3 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6264" value2="107"/>
+	<Tree size="55">OR OR OR AND AND OR OR v6 v4 AND2 v0 v2 AND2 OR v0 v4 OR v1 v5 NOT v2 AND AND2 v6 AND AND2 v5 v6 AND2 v4 v6 NOT AND AND v6 v3 AND v4 v6 NOT AND2 OR NOT v1 OR v3 v3 AND NOT v3 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6264" value2="107"/>
+	<Tree size="55">OR OR OR AND AND OR OR v6 v4 AND2 v0 v2 AND2 OR v0 v4 OR v1 v5 NOT v2 AND AND2 v6 AND AND2 v5 v6 AND2 v4 v6 NOT AND AND v6 v3 AND v4 v6 NOT AND2 OR NOT v1 OR v3 v3 AND NOT v3 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6264" value2="107"/>
+	<Tree size="53">OR OR OR AND AND OR OR v4 v4 AND2 v0 v2 AND2 OR v0 v4 OR v1 v5 NOT v2 AND AND2 v6 AND v1 AND2 v4 v6 NOT AND AND v6 v3 AND v4 v6 NOT AND2 OR NOT v1 OR v3 v3 AND NOT v3 NOT OR v6 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6396" value2="108"/>
+	<Tree size="50">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND OR OR OR v6 AND2 v2 v4 v0 AND2 v6 v4 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6396" value2="108"/>
+	<Tree size="54">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND OR OR OR v6 AND2 v2 v4 v0 OR OR v4 v0 OR v3 v1 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6396" value2="108"/>
+	<Tree size="40">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND NOT v2 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6396" value2="108"/>
+	<Tree size="54">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND OR OR OR v6 AND2 v2 v4 v0 OR OR v4 v0 OR v3 v1 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6531" value2="109"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v6 OR AND2 v0 v2 NOT v1 AND2 AND AND v0 v6 NOT v3 v4 AND v4 OR NOT OR v2 v6 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6531" value2="109"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v6 OR AND2 v0 v2 NOT v1 AND2 AND AND v0 v6 NOT v3 v4 AND v4 OR NOT OR v2 v6 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6531" value2="109"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v6 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v2 v6 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6531" value2="109"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v6 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v2 v6 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6666" value2="110"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v6 OR AND2 v4 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v2 v6 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6666" value2="110"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v6 OR AND2 v4 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v2 v6 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6666" value2="110"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v6 OR AND2 v4 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v2 v6 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6666" value2="110"/>
+	<Tree size="57">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND NOT AND2 v3 v2 NOT NOT v1 AND2 AND AND v0 v6 v6 v3 AND OR OR NOT NOT v6 v0 OR v0 OR v3 v1 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6801" value2="111"/>
+	<Tree size="48">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND OR v1 AND v2 v1 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v6 v2 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6801" value2="111"/>
+	<Tree size="48">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND OR v1 AND v2 v1 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v6 v2 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6801" value2="111"/>
+	<Tree size="48">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND OR v1 AND v2 v1 OR AND2 v0 v2 NOT v1 AND2 AND NOT v3 AND v0 v6 v4 AND v4 OR NOT OR v6 v2 OR AND2 AND2 v6 v2 v3 AND2 v3 v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6801" value2="111"/>
+	<Tree size="58">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND2 AND NOT v3 AND v6 v6 v1 AND AND2 v0 v4 AND v2 NOT v4 AND OR OR v6 OR OR v4 v4 AND2 v4 v2 v3 OR NOT OR v6 v6 OR AND2 AND2 v4 v2 AND2 v5 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6936" value2="112"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND v0 AND AND2 v0 v4 AND2 v4 v2 AND OR OR v6 NOT AND v5 v0 v3 OR NOT OR v6 v6 OR AND2 AND2 v4 v2 AND2 v5 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6936" value2="112"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v6 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6936" value2="112"/>
+	<Tree size="57">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND AND2 AND NOT v3 AND v6 v6 v1 AND AND2 v4 v4 AND v2 NOT v4 AND OR OR v6 OR OR v4 v4 AND2 v4 v2 v3 OR NOT OR v6 v6 OR AND2 AND2 v4 v2 AND2 v5 v4 AND2 NOT v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="6936" value2="112"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT v5 v4 AND2 v6 v3 AND v0 AND AND2 v0 v4 AND2 v4 v2 AND OR OR v6 NOT AND v5 v0 v3 OR NOT OR v6 v6 OR AND2 AND2 v4 v2 AND2 v5 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7072" value2="113"/>
+	<Tree size="52">NOT AND2 OR AND AND v6 AND2 OR v0 v4 OR v3 v4 v4 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND OR AND2 v5 v4 AND2 AND2 v4 v2 AND2 v0 v6 NOT AND OR v2 v6 AND AND v4 v0 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7072" value2="113"/>
+	<Tree size="54">NOT AND2 OR AND AND v6 AND2 OR v0 v4 OR v3 v4 AND2 v6 v3 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND OR AND2 v5 v4 AND2 AND2 v4 v2 AND2 v0 v6 NOT AND OR v2 v6 AND AND v4 v0 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7072" value2="113"/>
+	<Tree size="67">NOT AND2 OR AND AND OR v3 OR v3 v3 AND OR v4 v1 OR v3 v3 AND AND2 v5 v3 AND v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND NOT AND OR v2 v0 AND AND v4 v6 v2 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7072" value2="113"/>
+	<Tree size="52">NOT AND2 OR AND AND v6 AND2 OR v0 v4 OR v3 v4 v4 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND OR AND2 v5 v4 AND2 AND2 v4 v2 AND2 v0 v6 NOT AND OR v2 v6 AND AND v4 v0 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7210" value2="114"/>
+	<Tree size="67">NOT AND2 OR AND AND v6 AND2 OR v0 v4 OR v3 v3 AND AND2 v2 v0 AND AND v3 v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND OR AND2 v5 v4 OR OR AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v5 NOT AND OR AND2 v4 v2 v0 AND AND v4 v0 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7210" value2="114"/>
+	<Tree size="67">NOT AND2 OR AND AND v6 AND2 OR v0 v4 OR v3 v3 AND AND2 v2 v0 AND AND v3 v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND OR AND2 v5 v4 OR OR AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v5 NOT AND OR AND2 v4 v2 v0 AND AND v4 v0 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7210" value2="114"/>
+	<Tree size="59">NOT AND2 OR AND AND2 v2 v4 AND AND2 v3 v0 AND AND2 v3 v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND OR AND2 v5 v4 OR OR AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v5 NOT AND OR v2 v0 AND AND v4 v0 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7210" value2="114"/>
+	<Tree size="59">NOT AND2 OR AND AND2 v2 v4 AND AND2 v3 v0 AND AND2 v3 v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND OR AND2 v5 v4 OR OR AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v5 NOT AND OR v2 v0 AND AND v4 v0 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7350" value2="115"/>
+	<Tree size="67">NOT AND2 OR AND AND OR v3 OR v3 v3 AND OR v4 v1 OR v3 v3 AND AND2 v5 v3 AND v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND NOT AND OR v2 v0 AND AND v4 v0 v2 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7350" value2="115"/>
+	<Tree size="56">NOT AND2 OR AND NOT v4 AND AND2 v3 v3 AND v0 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND NOT AND OR v2 v0 AND AND v4 v0 v2 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7350" value2="115"/>
+	<Tree size="67">NOT AND2 OR AND AND OR v3 OR v3 v3 AND OR v4 v1 OR v3 v3 AND AND2 v5 v3 AND v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND NOT AND OR v2 v0 AND AND v4 v0 v2 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7350" value2="115"/>
+	<Tree size="67">NOT AND2 OR AND AND OR v3 OR v3 v3 AND OR v4 v1 OR v3 v3 AND AND2 v5 v3 AND v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 AND NOT AND OR v2 v0 AND AND v4 v0 v2 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 v1 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7491" value2="116"/>
+	<Tree size="42">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7491" value2="116"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7491" value2="116"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7491" value2="116"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7632" value2="117"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v5 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7632" value2="117"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v4 v2 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7632" value2="117"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v4 v2 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7632" value2="117"/>
+	<Tree size="44">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v4 v2 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7776" value2="118"/>
+	<Tree size="63">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v4 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7776" value2="118"/>
+	<Tree size="63">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7776" value2="118"/>
+	<Tree size="64">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v1 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7776" value2="118"/>
+	<Tree size="64">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v1 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7920" value2="119"/>
+	<Tree size="90">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 OR OR NOT NOT AND2 v6 v3 AND NOT AND v3 v6 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7920" value2="119"/>
+	<Tree size="90">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 OR OR NOT NOT AND2 v6 v3 AND NOT AND v3 v6 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7920" value2="119"/>
+	<Tree size="90">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 OR OR NOT NOT AND2 v6 v3 AND NOT AND v3 v6 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="7920" value2="119"/>
+	<Tree size="90">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 OR OR NOT NOT AND2 v6 v3 AND NOT AND v3 v6 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8064" value2="120"/>
+	<Tree size="43">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v4 v4 v3 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8064" value2="120"/>
+	<Tree size="43">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v4 v4 v3 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v3 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8064" value2="120"/>
+	<Tree size="83">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 NOT AND v2 v1 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 AND2 v2 AND v5 v1 v6 AND AND2 AND2 AND v4 AND2 OR v0 v6 OR v3 v3 AND2 OR OR v6 v3 v3 v6 v6 NOT AND2 OR NOT AND2 v3 v5 OR v1 v0 AND OR NOT v4 AND v3 v2 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8064" value2="120"/>
+	<Tree size="72">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 v6 AND2 AND2 v2 AND2 OR AND2 v4 v2 OR v1 v4 AND2 v2 AND v5 v1 v6 AND AND2 AND2 AND v4 AND2 OR v0 v6 OR v3 v3 AND2 OR OR v6 v3 v3 v6 v6 NOT AND2 OR NOT AND2 v3 v5 OR v1 v0 AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8208" value2="121"/>
+	<Tree size="41">NOT AND2 OR AND AND v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v1 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8208" value2="121"/>
+	<Tree size="41">NOT AND2 OR AND AND v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v1 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8208" value2="121"/>
+	<Tree size="41">NOT AND2 OR AND AND v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v1 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8208" value2="121"/>
+	<Tree size="41">NOT AND2 OR AND AND v2 OR AND2 v1 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v1 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8352" value2="122"/>
+	<Tree size="50">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 NOT AND v6 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT OR AND2 v4 v2 NOT v1 OR NOT v4 AND v1 v2 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8352" value2="122"/>
+	<Tree size="67">NOT AND2 AND2 NOT OR NOT OR v3 v0 OR OR v0 v5 AND2 v1 v5 AND2 AND2 OR AND v2 v6 AND v6 v4 NOT AND2 v2 v3 NOT NOT AND2 v4 v5 AND OR OR OR v6 v2 v0 OR OR v4 v0 NOT AND2 v3 v6 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v0 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8352" value2="122"/>
+	<Tree size="49">NOT AND2 OR AND v4 AND AND2 v3 v3 NOT AND v3 v5 AND NOT NOT AND2 v6 v3 AND NOT AND2 v5 v6 OR OR v3 v0 v2 AND NOT AND v4 AND2 v3 v6 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v5 v4 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8352" value2="122"/>
+	<Tree size="49">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8496" value2="123"/>
+	<Tree size="66">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR AND2 v4 AND2 OR AND2 v4 v2 v4 AND2 NOT v0 AND2 v2 v3 NOT NOT AND2 v6 v3 AND AND2 AND2 OR AND2 v2 AND v5 v0 v2 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8496" value2="123"/>
+	<Tree size="67">NOT AND2 AND2 NOT OR NOT OR v3 v0 OR OR v0 v5 AND2 v1 v5 AND2 AND2 OR AND v2 v6 AND v6 v4 NOT AND2 v2 v3 NOT NOT AND2 v4 v5 AND OR OR OR v6 v2 v0 OR OR v4 v0 NOT AND2 v3 v6 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8496" value2="123"/>
+	<Tree size="67">NOT AND2 AND2 NOT OR NOT OR v3 v0 OR OR v0 v5 AND2 v1 v5 AND2 AND2 OR AND v2 v6 AND v6 v4 NOT AND2 v2 v3 NOT NOT AND2 v4 v5 AND OR OR OR v6 v2 v0 OR OR v4 v0 NOT AND2 v3 v6 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8496" value2="123"/>
+	<Tree size="63">NOT AND2 AND2 NOT OR NOT OR v3 v0 OR OR v0 v5 AND2 v1 v5 AND2 AND2 v0 NOT AND2 v2 v3 NOT OR AND2 v4 v2 NOT v1 AND OR OR OR v6 v2 v0 OR OR v4 v0 NOT AND2 v3 v6 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8640" value2="124"/>
+	<Tree size="55">NOT AND2 OR AND AND NOT AND2 v6 v2 AND2 OR v4 v4 OR v3 v3 NOT NOT AND2 v6 v3 AND AND NOT AND2 v4 v6 OR OR v1 v0 v2 AND2 AND AND v0 v6 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 AND v6 v6 NOT v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8640" value2="124"/>
+	<Tree size="46">NOT AND2 OR AND OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v6 v0 v6 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 v2 AND2 v1 AND2 v6 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8640" value2="124"/>
+	<Tree size="59">OR OR NOT AND2 AND v4 AND2 OR v4 v5 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR OR AND2 v0 v6 AND2 v3 v2 NOT NOT AND2 v6 v3 AND AND2 AND2 OR AND2 v2 AND v5 v0 v2 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8640" value2="124"/>
+	<Tree size="58">OR AND AND2 v2 AND2 v6 v2 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 v6 OR OR AND2 v3 v6 OR v6 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8784" value2="125"/>
+	<Tree size="73">OR OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 NOT AND2 OR NOT v3 OR v3 v3 AND NOT v3 NOT OR v6 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8784" value2="125"/>
+	<Tree size="98">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 AND2 AND2 NOT AND2 v6 v2 AND2 OR AND2 v4 v2 OR v1 v4 NOT AND2 v3 v6 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 AND2 v2 NOT AND2 v3 v6 v6 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 OR v1 v0 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8784" value2="125"/>
+	<Tree size="73">OR OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 NOT AND2 OR NOT v1 OR v3 v3 AND NOT v3 NOT OR v6 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8784" value2="125"/>
+	<Tree size="73">OR OR NOT AND2 OR v6 NOT AND v6 v4 AND OR AND v2 v1 NOT v4 NOT AND2 v3 v6 NOT AND2 OR NOT v1 OR v3 v3 AND NOT v3 NOT OR v6 v4 OR OR OR AND2 v2 v6 AND2 OR OR v6 v3 v6 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 NOT AND v4 v0 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8928" value2="126"/>
+	<Tree size="84">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR AND2 v4 AND2 OR AND2 v4 v2 v4 AND2 NOT v2 AND2 v2 v3 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 v1 AND2 NOT v6 NOT v4 AND OR AND AND NOT AND2 v6 v2 OR AND2 v4 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8928" value2="126"/>
+	<Tree size="47">NOT AND2 OR AND OR NOT AND2 v6 v2 AND2 AND v0 v3 OR v3 v3 NOT NOT AND2 v6 v3 AND v0 AND AND2 v0 v6 AND2 v4 v2 AND OR OR v6 NOT AND v5 v0 v3 OR NOT OR v6 v6 OR v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8928" value2="126"/>
+	<Tree size="49">NOT AND2 OR AND v4 AND AND2 v3 v3 NOT AND v2 v5 AND NOT NOT AND2 v6 v3 AND NOT AND2 v5 v6 OR OR v3 v0 v2 AND NOT AND v4 AND2 v3 v6 OR AND2 v5 v4 OR AND2 AND2 v4 v2 AND2 v5 v4 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="8928" value2="126"/>
+	<Tree size="86">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR AND2 v4 AND2 OR AND2 v4 v2 v4 AND2 NOT v2 AND2 v2 v3 OR NOT OR v2 v6 OR AND2 AND2 v4 v2 AND2 v4 v4 AND2 NOT v6 NOT v4 AND OR AND AND NOT AND2 v6 v2 OR AND2 v4 v4 NOT v1 NOT NOT AND2 v6 v3 AND v6 AND2 AND AND v0 v6 v6 v3 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9072" value2="127"/>
+	<Tree size="43">NOT AND2 OR AND AND NOT AND2 v6 v2 OR AND2 v4 v2 NOT v1 NOT NOT AND2 v6 v3 AND AND2 AND AND v0 v0 v6 v3 v3 AND v6 OR AND2 v5 v4 OR AND2 v4 NOT v4 AND2 v0 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9072" value2="127"/>
+	<Tree size="87">OR OR NOT AND2 OR v6 NOT AND v6 v6 AND OR AND v2 v1 NOT v4 NOT AND v2 v1 OR AND AND OR AND v4 v1 OR v4 v5 AND2 OR v0 v6 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR NOT v4 AND v1 v2 OR OR OR AND2 v2 v6 AND2 v2 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9072" value2="127"/>
+	<Tree size="90">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v3 AND OR NOT v4 AND v4 v5 NOT AND v2 v1 OR NOT OR NOT v6 OR AND2 v4 v6 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 OR OR NOT NOT AND2 v6 v3 AND NOT AND v3 v6 v2 OR OR OR AND2 v2 v6 v1 v6 OR AND v0 v4 NOT NOT v3 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9072" value2="127"/>
+	<Tree size="87">OR OR NOT AND2 OR v6 NOT AND v6 v6 AND OR AND v2 v1 NOT v4 NOT AND v2 v1 OR AND AND OR AND v4 v1 OR v4 v5 AND2 OR v0 v6 v3 OR v3 NOT AND2 v5 v6 AND AND NOT AND2 v3 v2 NOT NOT v1 OR NOT v4 AND v1 v2 OR OR OR AND2 v2 v6 AND2 v2 NOT AND2 v3 v6 v6 OR OR v1 v2 OR AND2 NOT v1 NOT v3 AND AND2 NOT v2 NOT v5 v4 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9216" value2="128"/>
+	<Tree size="64">OR OR NOT AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 NOT AND v2 v1 OR NOT AND2 NOT v6 OR AND2 v4 v1 v3 AND NOT AND2 NOT v6 NOT v4 OR NOT v4 AND v1 v2 AND AND2 AND2 v4 AND2 OR OR v6 v3 v3 NOT AND2 v3 v6 v6 v2 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9216" value2="128"/>
+	<Tree size="118">OR OR OR AND2 AND v4 AND2 OR v5 v4 OR v1 v5 AND OR AND2 v6 v3 AND v4 v5 NOT AND v2 v1 AND AND OR AND v1 v1 AND2 v3 v3 NOT AND2 v3 v2 AND NOT AND2 v3 v2 NOT AND v3 v6 NOT AND2 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 OR OR OR v3 v6 v5 NOT OR v6 v2 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v2 v6 AND AND NOT AND2 v3 v2 NOT AND v6 v4 v1 NOT AND2 OR OR AND2 v5 v6 AND2 v4 v2 v3 AND OR NOT v4 AND v2 v1 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9216" value2="128"/>
+	<Tree size="50">OR AND AND2 v2 AND v5 AND2 AND AND v0 v2 v2 v4 v2 OR OR AND AND v4 AND2 OR v0 v6 OR v3 v3 OR v6 v2 OR v3 NOT v2 NOT AND2 OR OR OR v6 v3 v3 OR v1 v0 AND v5 NOT AND2 v3 v6 </Tree>
+</Individual>
+<Individual size="1">
+	<MOFitness value1="9216" value2="128"/>
+	<Tree size="39">NOT AND2 OR AND AND OR v3 OR v3 v3 AND2 NOT v2 NOT v5 AND AND2 v5 v3 AND v6 v6 AND AND NOT AND2 v5 v6 OR OR v1 v0 v2 NOT NOT AND2 v6 v3 v6 </Tree>
+</Individual>

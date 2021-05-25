@@ -1,0 +1,284 @@
+Running in batch mode: run 40/50
+Start time: Tue Apr 20 17:01:16 2021
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 0
+Deme: 0
+Evaluations: 500
+Stats: fitness
+	max: 1588
+	min: 416
+	avg: 911.06
+	stdev: 227.268
+
+Generation: 1
+Elapsed time: 0
+Deme: 0
+Evaluations: 1000
+Stats: fitness
+	max: 1210
+	min: 284
+	avg: 650.992
+	stdev: 167.225
+
+Generation: 10
+Elapsed time: 0
+Deme: 0
+Evaluations: 5500
+Stats: fitness
+	max: 82
+	min: -4
+	avg: 10.13
+	stdev: 9.52715
+
+Generation: 20
+Elapsed time: 0
+Deme: 0
+Evaluations: 10500
+Stats: fitness
+	max: 262144
+	min: -5
+	avg: 2622.02
+	stdev: 26109.1
+
+Generation: 30
+Elapsed time: 0
+Deme: 0
+Evaluations: 15500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 2098.68
+	stdev: 23376.1
+
+Generation: 40
+Elapsed time: 0
+Deme: 0
+Evaluations: 20500
+Stats: fitness
+	max: 58
+	min: -7
+	avg: 0.616
+	stdev: 11.0937
+
+Generation: 50
+Elapsed time: 0
+Deme: 0
+Evaluations: 25500
+Stats: fitness
+	max: 112
+	min: -7
+	avg: 1.07
+	stdev: 13.0976
+
+Generation: 60
+Elapsed time: 0
+Deme: 0
+Evaluations: 30500
+Stats: fitness
+	max: 70
+	min: -7
+	avg: 1.036
+	stdev: 12.7009
+
+Generation: 70
+Elapsed time: 0
+Deme: 0
+Evaluations: 35500
+Stats: fitness
+	max: 104
+	min: -7
+	avg: 1.764
+	stdev: 14.2664
+
+Generation: 80
+Elapsed time: 0
+Deme: 0
+Evaluations: 40500
+Stats: fitness
+	max: 94
+	min: -7
+	avg: 2.844
+	stdev: 15.6825
+
+Generation: 90
+Elapsed time: 0
+Deme: 0
+Evaluations: 45500
+Stats: fitness
+	max: 72
+	min: -7
+	avg: 3.49
+	stdev: 14.9508
+
+Generation: 100
+Elapsed time: 0
+Deme: 0
+Evaluations: 50500
+Stats: fitness
+	max: 58
+	min: -7
+	avg: 3.828
+	stdev: 14.7429
+
+Generation: 110
+Elapsed time: 0
+Deme: 0
+Evaluations: 55500
+Stats: fitness
+	max: 66
+	min: -7
+	avg: 3.358
+	stdev: 14.6448
+
+Generation: 120
+Elapsed time: 0
+Deme: 0
+Evaluations: 60500
+Stats: fitness
+	max: 70
+	min: -7
+	avg: 2.954
+	stdev: 14.7839
+
+Generation: 130
+Elapsed time: 0
+Deme: 0
+Evaluations: 65500
+Stats: fitness
+	max: 70
+	min: -7
+	avg: 3.05
+	stdev: 15.4581
+
+Generation: 140
+Elapsed time: 0
+Deme: 0
+Evaluations: 70500
+Stats: fitness
+	max: 68
+	min: -7
+	avg: 3.47
+	stdev: 15.7219
+
+Generation: 150
+Elapsed time: 0
+Deme: 0
+Evaluations: 75500
+Stats: fitness
+	max: 50
+	min: -7
+	avg: 3.304
+	stdev: 14.9661
+
+Generation: 160
+Elapsed time: 0
+Deme: 0
+Evaluations: 80500
+Stats: fitness
+	max: 82
+	min: -7
+	avg: 3.394
+	stdev: 15.4032
+
+Generation: 170
+Elapsed time: 1
+Deme: 0
+Evaluations: 85500
+Stats: fitness
+	max: 54
+	min: -7
+	avg: 2.258
+	stdev: 14.6502
+
+Generation: 180
+Elapsed time: 1
+Deme: 0
+Evaluations: 90500
+Stats: fitness
+	max: 54
+	min: -7
+	avg: 2.962
+	stdev: 14.2478
+
+Generation: 190
+Elapsed time: 1
+Deme: 0
+Evaluations: 95500
+Stats: fitness
+	max: 68
+	min: -7
+	avg: 3.112
+	stdev: 14.9169
+
+Generation: 200
+Elapsed time: 1
+Deme: 0
+Evaluations: 100500
+Stats: fitness
+	max: 70
+	min: -7
+	avg: 3.174
+	stdev: 14.8158
+
+Generation: 210
+Elapsed time: 1
+Deme: 0
+Evaluations: 105500
+Stats: fitness
+	max: 72
+	min: -7
+	avg: 2.408
+	stdev: 14.4439
+
+Generation: 220
+Elapsed time: 1
+Deme: 0
+Evaluations: 110500
+Stats: fitness
+	max: 60
+	min: -7
+	avg: 3.188
+	stdev: 14.8575
+
+Generation: 230
+Elapsed time: 1
+Deme: 0
+Evaluations: 115500
+Stats: fitness
+	max: 84
+	min: -7
+	avg: 3.174
+	stdev: 15.3479
+
+Generation: 236
+Elapsed time: 1
+Deme: 0
+Evaluations: 118500
+Stats: fitness
+	max: 58
+	min: -7
+	avg: 3.46
+	stdev: 14.4805
+
+Truth table:
+0000000000000000010100001011000000000000000000000000000000110000
+score: -7
+hwf: 57
+
+<Individual size="1">
+	<FitnessMin value="-7"/>
+	<BitString size="64">0000000000000000010100001011000000000000000000000000000000110000</BitString>
+</Individual>
+
+Termination: maximum number of generations without improvement (200) reached
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="35">
+		<FitnessMin value="-7"/>
+		<BitString size="64">0000000000000000010100001011000000000000000000000000000000110000</BitString>
+	</Individual>
+</HallOfFame>
+

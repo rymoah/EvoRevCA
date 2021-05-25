@@ -1,0 +1,264 @@
+Running in batch mode: run 8/50
+Start time: Tue Apr 20 17:01:33 2021
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 0
+Deme: 0
+Evaluations: 500
+Stats: fitness
+	max: 262144
+	min: -4
+	avg: 45615.2
+	stdev: 98098.4
+
+Generation: 1
+Elapsed time: 1
+Deme: 0
+Evaluations: 1000
+Stats: fitness
+	max: 262144
+	min: -4
+	avg: 9352.43
+	stdev: 47477.8
+
+Generation: 10
+Elapsed time: 1
+Deme: 0
+Evaluations: 5500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 12143.5
+	stdev: 54952.7
+
+Generation: 20
+Elapsed time: 1
+Deme: 0
+Evaluations: 10500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 2133.72
+	stdev: 23374.3
+
+Generation: 30
+Elapsed time: 1
+Deme: 0
+Evaluations: 15500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 4741.5
+	stdev: 34884.5
+
+Generation: 40
+Elapsed time: 1
+Deme: 0
+Evaluations: 20500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 8445.21
+	stdev: 46174.2
+
+Generation: 50
+Elapsed time: 1
+Deme: 0
+Evaluations: 25500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 6312.1
+	stdev: 40158.3
+
+Generation: 60
+Elapsed time: 2
+Deme: 0
+Evaluations: 30500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 5297.41
+	stdev: 36730.7
+
+Generation: 70
+Elapsed time: 2
+Deme: 0
+Evaluations: 35500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 7898.02
+	stdev: 44757.8
+
+Generation: 80
+Elapsed time: 2
+Deme: 0
+Evaluations: 40500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 6863.39
+	stdev: 41751.3
+
+Generation: 90
+Elapsed time: 2
+Deme: 0
+Evaluations: 45500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 7371.3
+	stdev: 43285.3
+
+Generation: 100
+Elapsed time: 2
+Deme: 0
+Evaluations: 50500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 8455
+	stdev: 46172.6
+
+Generation: 110
+Elapsed time: 3
+Deme: 0
+Evaluations: 55500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 6357.11
+	stdev: 40152.7
+
+Generation: 120
+Elapsed time: 3
+Deme: 0
+Evaluations: 60500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 7385.56
+	stdev: 43283.2
+
+Generation: 130
+Elapsed time: 3
+Deme: 0
+Evaluations: 65500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 4777.59
+	stdev: 34880.5
+
+Generation: 140
+Elapsed time: 3
+Deme: 0
+Evaluations: 70500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 12094.1
+	stdev: 54962.9
+
+Generation: 150
+Elapsed time: 3
+Deme: 0
+Evaluations: 75500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 8957
+	stdev: 47548
+
+Generation: 160
+Elapsed time: 3
+Deme: 0
+Evaluations: 80500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 11588.8
+	stdev: 53807.4
+
+Generation: 170
+Elapsed time: 4
+Deme: 0
+Evaluations: 85500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 6870.69
+	stdev: 41749.8
+
+Generation: 180
+Elapsed time: 4
+Deme: 0
+Evaluations: 90500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 9500.46
+	stdev: 48872.5
+
+Generation: 190
+Elapsed time: 4
+Deme: 0
+Evaluations: 95500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 11600.4
+	stdev: 53805
+
+Generation: 200
+Elapsed time: 4
+Deme: 0
+Evaluations: 100500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 5833.35
+	stdev: 38481.9
+
+Generation: 210
+Elapsed time: 4
+Deme: 0
+Evaluations: 105500
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 6332
+	stdev: 40155.5
+
+Generation: 211
+Elapsed time: 4
+Deme: 0
+Evaluations: 106000
+Stats: fitness
+	max: 262144
+	min: -6
+	avg: 6342.81
+	stdev: 40154.3
+
+Truth table:
+0000000000000000010100001111000000000000000000000000000000000000
+score: -6
+hwf: 58
+
+<Individual size="1">
+	<FitnessMin value="-6"/>
+	<Tree size="57">AND AND2 AND NOT AND OR v5 v6 AND v4 v4 v4 OR AND v4 v2 NOT AND2 OR v0 v3 AND v2 v2 OR AND OR NOT AND v3 v1 v5 NOT OR AND2 v5 v6 v2 AND2 OR OR v5 v3 NOT OR v6 v3 AND NOT NOT v2 AND2 AND2 v3 v4 NOT v5 </Tree>
+</Individual>
+
+Termination: maximum number of generations without improvement (200) reached
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="10">
+		<FitnessMin value="-6"/>
+		<Tree size="57">AND AND2 AND NOT AND OR v5 v6 AND v4 v4 v4 OR AND v4 v2 NOT AND2 OR v0 v3 AND v2 v2 OR AND OR NOT AND v3 v1 v5 NOT OR AND2 v5 v6 v2 AND2 OR OR v5 v3 NOT OR v6 v3 AND NOT NOT v2 AND2 AND2 v3 v4 NOT v5 </Tree>
+	</Individual>
+</HallOfFame>
+

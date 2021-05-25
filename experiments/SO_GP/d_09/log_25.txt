@@ -1,0 +1,34 @@
+Running in batch mode: run 25/50
+Start time: Wed Apr 21 11:48:03 2021
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 1
+Deme: 0
+Evaluations: 500
+Stats: fitness
+	max: 1.67772e+07
+	min: 0
+	avg: 2.02163e+06
+	stdev: 5.45433e+06
+
+Truth table:
+0000000000000000000000000000000000000000000000000000000000000000010101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101010000000000000000000000000000000000000000000000000000000000
+score: 0
+hwf: 250
+
+<Individual size="1">
+	<FitnessMin value="0"/>
+	<Tree size="74">AND NOT NOT OR AND NOT OR NOT v4 AND2 v0 v2 AND2 NOT OR v0 v6 OR OR v1 v6 NOT v1 NOT OR OR OR v4 v5 AND v2 v1 NOT AND2 v6 v4 NOT AND NOT NOT NOT NOT OR v4 v6 OR OR AND AND2 AND2 v3 v0 OR v1 v1 AND2 NOT v1 NOT v2 NOT OR AND v7 v3 OR v0 v6 NOT NOT NOT AND2 v0 v3 </Tree>
+</Individual>
+
+Termination: fitness value (0) reached
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="0">
+		<FitnessMin value="0"/>
+		<Tree size="74">AND NOT NOT OR AND NOT OR NOT v4 AND2 v0 v2 AND2 NOT OR v0 v6 OR OR v1 v6 NOT v1 NOT OR OR OR v4 v5 AND v2 v1 NOT AND2 v6 v4 NOT AND NOT NOT NOT NOT OR v4 v6 OR OR AND AND2 AND2 v3 v0 OR v1 v1 AND2 NOT v1 NOT v2 NOT OR AND v7 v3 OR v0 v6 NOT NOT NOT AND2 v0 v3 </Tree>
+	</Individual>
+</HallOfFame>
+

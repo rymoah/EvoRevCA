@@ -1,0 +1,64 @@
+Running in batch mode: run 40/50
+Start time: Wed Apr 21 11:47:56 2021
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 0
+Deme: 0
+Evaluations: 500
+Stats: fitness
+	max: 3664
+	min: 1356
+	avg: 2320.55
+	stdev: 415.154
+
+Generation: 1
+Elapsed time: 0
+Deme: 0
+Evaluations: 1000
+Stats: fitness
+	max: 3165
+	min: 1120
+	avg: 1859.26
+	stdev: 296.527
+
+Generation: 10
+Elapsed time: 1
+Deme: 0
+Evaluations: 5500
+Stats: fitness
+	max: 341
+	min: 20
+	avg: 132.324
+	stdev: 54.1118
+
+Generation: 13
+Elapsed time: 1
+Deme: 0
+Evaluations: 7000
+Stats: fitness
+	max: 187
+	min: 0
+	avg: 31.624
+	stdev: 18.8188
+
+Truth table:
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001110000000000000
+score: 0
+hwf: 125
+
+<Individual size="1">
+	<FitnessMin value="0"/>
+	<BitString size="128">00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001110000000000000</BitString>
+</Individual>
+
+Termination: fitness value (0) reached
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="13">
+		<FitnessMin value="0"/>
+		<BitString size="128">00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001110000000000000</BitString>
+	</Individual>
+</HallOfFame>
+

@@ -1,0 +1,314 @@
+Running in batch mode: run 9/50
+Start time: Tue Apr 20 17:01:43 2021
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 1
+Deme: 0
+Evaluations: 500
+Stats: fitness
+	max: 9664
+	min: 4581
+	avg: 6669.51
+	stdev: 861.415
+
+Generation: 1
+Elapsed time: 2
+Deme: 0
+Evaluations: 1000
+Stats: fitness
+	max: 7711
+	min: 3928
+	avg: 5696.15
+	stdev: 677.154
+
+Generation: 10
+Elapsed time: 4
+Deme: 0
+Evaluations: 5500
+Stats: fitness
+	max: 2018
+	min: 559
+	avg: 1198.92
+	stdev: 219.271
+
+Generation: 20
+Elapsed time: 5
+Deme: 0
+Evaluations: 10500
+Stats: fitness
+	max: 95
+	min: -2
+	avg: 28.518
+	stdev: 15.5917
+
+Generation: 30
+Elapsed time: 5
+Deme: 0
+Evaluations: 15500
+Stats: fitness
+	max: 1.67772e+07
+	min: -5
+	avg: 67108.1
+	stdev: 1.06002e+06
+
+Generation: 40
+Elapsed time: 5
+Deme: 0
+Evaluations: 20500
+Stats: fitness
+	max: 1.67772e+07
+	min: -7
+	avg: 67108.6
+	stdev: 1.06002e+06
+
+Generation: 50
+Elapsed time: 5
+Deme: 0
+Evaluations: 25500
+Stats: fitness
+	max: 26
+	min: -8
+	avg: -0.392
+	stdev: 5.99017
+
+Generation: 60
+Elapsed time: 5
+Deme: 0
+Evaluations: 30500
+Stats: fitness
+	max: 36
+	min: -9
+	avg: -1.466
+	stdev: 7.42017
+
+Generation: 70
+Elapsed time: 5
+Deme: 0
+Evaluations: 35500
+Stats: fitness
+	max: 38
+	min: -11
+	avg: -0.53
+	stdev: 10.2042
+
+Generation: 80
+Elapsed time: 5
+Deme: 0
+Evaluations: 40500
+Stats: fitness
+	max: 48
+	min: -11
+	avg: 0.64
+	stdev: 12.4438
+
+Generation: 90
+Elapsed time: 5
+Deme: 0
+Evaluations: 45500
+Stats: fitness
+	max: 56
+	min: -11
+	avg: 1.782
+	stdev: 14.9505
+
+Generation: 100
+Elapsed time: 5
+Deme: 0
+Evaluations: 50500
+Stats: fitness
+	max: 66
+	min: -11
+	avg: 2.346
+	stdev: 15.1036
+
+Generation: 110
+Elapsed time: 6
+Deme: 0
+Evaluations: 55500
+Stats: fitness
+	max: 67
+	min: -11
+	avg: 1.594
+	stdev: 15.2341
+
+Generation: 120
+Elapsed time: 6
+Deme: 0
+Evaluations: 60500
+Stats: fitness
+	max: 55
+	min: -11
+	avg: 1.328
+	stdev: 14.5383
+
+Generation: 130
+Elapsed time: 6
+Deme: 0
+Evaluations: 65500
+Stats: fitness
+	max: 62
+	min: -11
+	avg: 1.56
+	stdev: 15.1398
+
+Generation: 140
+Elapsed time: 6
+Deme: 0
+Evaluations: 70500
+Stats: fitness
+	max: 66
+	min: -11
+	avg: 1.066
+	stdev: 14.3946
+
+Generation: 150
+Elapsed time: 6
+Deme: 0
+Evaluations: 75500
+Stats: fitness
+	max: 53
+	min: -11
+	avg: 0.316
+	stdev: 13.7141
+
+Generation: 160
+Elapsed time: 6
+Deme: 0
+Evaluations: 80500
+Stats: fitness
+	max: 60
+	min: -11
+	avg: 1.42
+	stdev: 14.9979
+
+Generation: 170
+Elapsed time: 6
+Deme: 0
+Evaluations: 85500
+Stats: fitness
+	max: 54
+	min: -11
+	avg: 2.008
+	stdev: 15.1817
+
+Generation: 180
+Elapsed time: 6
+Deme: 0
+Evaluations: 90500
+Stats: fitness
+	max: 62
+	min: -11
+	avg: 1.692
+	stdev: 15.3623
+
+Generation: 190
+Elapsed time: 6
+Deme: 0
+Evaluations: 95500
+Stats: fitness
+	max: 72
+	min: -11
+	avg: 0.936
+	stdev: 14.4958
+
+Generation: 200
+Elapsed time: 6
+Deme: 0
+Evaluations: 100500
+Stats: fitness
+	max: 70
+	min: -11
+	avg: 1.934
+	stdev: 15.3523
+
+Generation: 210
+Elapsed time: 6
+Deme: 0
+Evaluations: 105500
+Stats: fitness
+	max: 72
+	min: -11
+	avg: 0.988
+	stdev: 14.9934
+
+Generation: 220
+Elapsed time: 7
+Deme: 0
+Evaluations: 110500
+Stats: fitness
+	max: 66
+	min: -11
+	avg: 1.27
+	stdev: 14.891
+
+Generation: 230
+Elapsed time: 7
+Deme: 0
+Evaluations: 115500
+Stats: fitness
+	max: 65
+	min: -11
+	avg: 1.582
+	stdev: 15.4043
+
+Generation: 240
+Elapsed time: 7
+Deme: 0
+Evaluations: 120500
+Stats: fitness
+	max: 87
+	min: -11
+	avg: 3.104
+	stdev: 15.8918
+
+Generation: 250
+Elapsed time: 7
+Deme: 0
+Evaluations: 125500
+Stats: fitness
+	max: 64
+	min: -11
+	avg: 1.364
+	stdev: 15.0951
+
+Generation: 260
+Elapsed time: 7
+Deme: 0
+Evaluations: 130500
+Stats: fitness
+	max: 60
+	min: -11
+	avg: 2.394
+	stdev: 15.5268
+
+Generation: 269
+Elapsed time: 7
+Deme: 0
+Evaluations: 135000
+Stats: fitness
+	max: 71
+	min: -11
+	avg: 1.496
+	stdev: 15.1392
+
+Truth table:
+0000000001101000000000000000000000000000000000000000000000001000000000000000000000000000010010000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000000000000010000000000000001000
+score: -11
+hwf: 245
+
+<Individual size="1">
+	<FitnessMin value="-11"/>
+	<BitString size="256">0000000001101000000000000000000000000000000000000000000000001000000000000000000000000000010010000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000000000000010000000000000001000</BitString>
+</Individual>
+
+Termination: maximum number of generations without improvement (200) reached
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="68">
+		<FitnessMin value="-11"/>
+		<BitString size="256">0000000001101000000000000000000000000000000000000000000000001000000000000000000000000000010010000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000100000000000000010000000000000001000</BitString>
+	</Individual>
+</HallOfFame>
+
